@@ -13,10 +13,10 @@
 1. 请**克隆（Clone）`main` 分支**。
 2. 请以任意名称创建您的**个人分支**用于翻译（例如：`translation-zh`, `fix-typo-en` 等）。
 3. 更新翻译后的 CSV 或相关文件，并**提交（Commit）**。
-4. 翻译完成后，请向 `main` 分支**创建 Pull Request（PR）**。
+4. 翻译完成后，请向 `main` 分支**创建 Pull Request（PR）**。请在PR（Pull Request）评论中填写“更新内容”以及“希望列入致谢名单（Credit）的署名”。
 
 > [!NOTE]
-> 由于翻译文件极易发生冲突（Conflict），PR 经审核通过后的合并（Merge）操作将由 Owner 统一进行。请在PR（Pull Request）评论中填写“更新内容”以及“希望列入致谢名单（Credit）的署名”。
+> 由于翻译文件极易发生冲突（Conflict），PR 经审核通过后的合并（Merge）操作将由 Owner 统一进行。
 
 ---
 
