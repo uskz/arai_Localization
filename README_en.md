@@ -13,7 +13,7 @@ This repository is dedicated to the multilingual localization of "Arai-san Mansi
 1. **Clone** the `main` branch.
 2. Create a **personal branch** with any descriptive name for your work (e.g., `translation-ja`, `fix-typo-en`).
 3. Update the translated CSV or related files, then **commit** your changes.
-4. Once your work is complete, **create a Pull Request (PR)** targeting the `main` branch.
+4. Once your work is complete, **create a Pull Request (PR)** targeting the `main` branch. In your Pull Request comments, please include the "Details of Updates" and "Your Name (if you would like to be included in the credits)".
 
 > [!NOTE]
 > Since translation files are highly prone to merge conflicts, the Owner will handle the final merging after approving the PR.
