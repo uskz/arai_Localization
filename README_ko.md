@@ -13,10 +13,10 @@
 1. `main` 브랜치를 클론(Clone)해 주세요.
 2. 작업용으로 원하는 이름의 **개인 브랜치**(예: `translation-ko`, `fix-typo-en` 등)를 생성해 주세요.
 3. 번역한 CSV 및 관련 파일을 업데이트한 후 커밋(Commit)해 주세요.
-4. 작업이 완료되면 `main` 브랜치를 향해 **Pull Request(PR)를 생성**해 주세요.
+4. 작업이 완료되면 `main` 브랜치를 향해 **Pull Request(PR)를 생성**해 주세요. PR(Pull Request) 코멘트에는 '업데이트 내용'과 '크레딧(Credit)에 기재를 원하시는 이름'을 작성해 주세요.
 
 > [!NOTE]
-> 번역 파일은 충돌(Conflict)이 발생하기 쉬우므로, PR 승인 후의 머지(Merge)는 Owner가 진행합니다. PR(Pull Request) 코멘트에는 '업데이트 내용'과 '크레딧(Credit)에 기재를 원하시는 이름'을 작성해 주세요.
+> 번역 파일은 충돌(Conflict)이 발생하기 쉬우므로, PR 승인 후의 머지(Merge)는 Owner가 진행합니다.
 
 ---
 
