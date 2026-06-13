@@ -16,7 +16,7 @@
 4. 翻译完成后，请向 `main` 分支**创建 Pull Request（PR）**。
 
 > [!NOTE]
-> 由于翻译文件极易发生冲突（Conflict），PR 经审核通过后的合并（Merge）操作将由 Owner 统一进行。
+> 由于翻译文件极易发生冲突（Conflict），PR 经审核通过后的合并（Merge）操作将由 Owner 统一进行。请在PR（Pull Request）评论中填写“更新内容”以及“希望列入致谢名单（Credit）的署名”。
 
 ---
 
