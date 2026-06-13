@@ -25,8 +25,8 @@
 GitHub の操作が難しい場合は、以下の手順で作業をお願いします。
 
 1. 翻訳用ファイルを下記リンクからダウンロードして編集してください。（右クリックから「リンク先を名前を付けて保存」を選択）
-   * 📄 [翻訳ファイル1](https://raw.githubusercontent.com/<ユーザー名>/<リポジトリ名>/main/<パス>/<ファイル名>)
-   * 📄 [翻訳ファイル2](https://raw.githubusercontent.com/<ユーザー名>/<リポジトリ名>/main/<パス>/<ファイル名>)
+   * 📄 [翻訳ファイル1](https://raw.githubusercontent.com/uskz/arai_Localization/main/code_trans.csv)
+   * 📄 [翻訳ファイル2](https://raw.githubusercontent.com/uskz/arai_Localization/main/translation.csv)
 2. 更新が終わったら、下記の翻訳ファイル投稿フォームからファイルをアップロードしてください。
    * 📬 [翻訳ファイル投稿フォーム](https://docs.google.com/forms/d/e/1FAIpQLSe4aPeQpaxzxw94yu07YhepkyXko5SqtVkr_kT7ryfplmN6HQ/viewform?usp=publish-editor)
 
