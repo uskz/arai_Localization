@@ -16,7 +16,7 @@
 4. 작업이 완료되면 `main` 브랜치를 향해 **Pull Request(PR)를 생성**해 주세요.
 
 > [!NOTE]
-> 번역 파일은 충돌(Conflict)이 발생하기 쉬우므로, PR 승인 후의 머지(Merge)는 Owner가 진행합니다.
+> 번역 파일은 충돌(Conflict)이 발생하기 쉬우므로, PR 승인 후의 머지(Merge)는 Owner가 진행합니다. PR(Pull Request) 코멘트에는 '업데이트 내용'과 '크레딧(Credit)에 기재를 원하시는 이름'을 작성해 주세요.
 
 ---
 
