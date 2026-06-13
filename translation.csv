@@ -1,23 +1,23 @@
 "keys","ja","en","zh","ko","ru"
-"Log","ログ一覧","Log","Log","Log",""
-"Save","セーブ一覧","Save","Save","Save",""
-"Load","ロード一覧","Load","Load","Load",""
-"Close","閉じる","Close","Close","Close",""
-"Text Speed","テキスト速度","Text Speed","Text Speed","Text Speed",""
-"BGM Volume","BGM音量","BGM Volume","BGM Volume","BGM Volume",""
-"ME Volume","ME音量","ME Volume","ME Volume","ME Volume",""
-"Sound Volume","サウンド音量","Sound Volume","Sound Volume","Sound Volume",""
-"Language","言語","Language","Language","Language",""
-"Return Title","タイトルに戻る","Return Title","Return Title","Return Title",""
-"Exit Game","ゲームをやめる","Exit Game","Exit Game","Exit Game",""
-"ログ","ログ","LOG","LOG","LOG",""
-"セーブ","セーブ","Save","保存","저장",""
-"ロード","ロード","LOAD","LOAD","LOAD",""
-"設定","設定","SETTING","SETTING","SETTING",""
-"[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]ノベルゲームウィザードデモ[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]ノベルゲームウィザードデモ[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]Novel Game Wizard Demo[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]Novel Game Wizard Demo[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]Novel Game Wizard Demo[/color][/wave][/outline_color][/outline_size][/font_size][/center]",""
-"はじめる","はじめる","START","新游戏","처음부터",""
-"続きから","続きから","Continue","继续游戏","이어하기",""
-"終了","終了","EXIT","退出游戏","게임 종료",""
+"Log","ログ一覧","Log","Log","Log","Log"
+"Save","セーブ一覧","Save","Save","Save","Save"
+"Load","ロード一覧","Load","Load","Load","Load"
+"Close","閉じる","Close","Close","Close","Close"
+"Text Speed","テキスト速度","Text Speed","Text Speed","Text Speed","Text Speed"
+"BGM Volume","BGM音量","BGM Volume","BGM Volume","BGM Volume","BGM Volume"
+"ME Volume","ME音量","ME Volume","ME Volume","ME Volume","ME Volume"
+"Sound Volume","サウンド音量","Sound Volume","Sound Volume","Sound Volume","Sound Volume"
+"Language","言語","Language","Language","Language","Language"
+"Return Title","タイトルに戻る","Return Title","Return Title","Return Title","Return Title"
+"Exit Game","ゲームをやめる","Exit Game","Exit Game","Exit Game","Exit Game"
+"ログ","ログ","LOG","LOG","LOG","LOG"
+"セーブ","セーブ","Save","保存","저장","저장"
+"ロード","ロード","LOAD","LOAD","LOAD","LOAD"
+"設定","設定","SETTING","SETTING","SETTING","SETTING"
+"[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]ノベルゲームウィザードデモ[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]ノベルゲームウィザードデモ[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]Novel Game Wizard Demo[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]Novel Game Wizard Demo[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]Novel Game Wizard Demo[/color][/wave][/outline_color][/outline_size][/font_size][/center]","[center][font_size=70][outline_size=8][outline_color=#FFFFFF][wave amp=32 freq=6][color=black]Novel Game Wizard Demo[/color][/wave][/outline_color][/outline_size][/font_size][/center]"
+"はじめる","はじめる","START","新游戏","처음부터","처음부터"
+"続きから","続きから","Continue","继续游戏","이어하기","이어하기"
+"終了","終了","EXIT","退出游戏","게임 종료","게임 종료"
 "機能ボタンの表示。
 （ログ、セーブ、ロード、設定）
 BGMの再生。","機能ボタンの表示。
@@ -28,7 +28,9 @@ Play BGM.","Display function buttons.
 (Log[COMMA] Save[COMMA] Load[COMMA] Setting)
 Play BGM.","Display function buttons.
 (Log[COMMA] Save[COMMA] Load[COMMA] Setting)
-Play BGM.",""
+Play BGM.","Display function buttons.
+(Log[COMMA] Save[COMMA] Load[COMMA] Setting)
+Play BGM."
 "画像を表示します。
 （キャラクターの登場）
 画像の移動 + フェードイン + 上下揺れ","画像を表示します。
@@ -39,62 +41,67 @@ Image movement + fade in + bobbing","Display an image.
 (Character appears)
 Image movement + fade in + bobbing","Display an image.
 (Character appears)
-Image movement + fade in + bobbing",""
-"ボタンの表示。","ボタンの表示。","Display buttons.","Display buttons.","Display buttons.",""
-"ボタン１","ボタン１","Button 1","Button 1","Button 1",""
-"ボタン２","ボタン２","Button 2","Button 2","Button 2",""
-"ボタン１を押しました。","ボタン１を押しました。","Button 1 was pressed.","Button 1 was pressed.","Button 1 was pressed.",""
-"ボタン２を押しました。","ボタン２を押しました。","Button 2 was pressed.","Button 2 was pressed.","Button 2 was pressed.",""
-"MEの再生","MEの再生","Play ME.","Play ME.","Play ME.",""
-"効果音 + 画像揺れ","効果音 + 画像揺れ","Sound effects + Image shaking","Sound effects + Image shaking","Sound effects + Image shaking",""
-"画面揺れ","画面揺れ","Screen Shaking","Screen Shaking","Screen Shaking",""
-"画像のアニメーション","画像のアニメーション","Image animation","Image animation","Image animation",""
-"アニメーション画像の消去。","アニメーション画像の消去。","Erase animated images.","Erase animated images.","Erase animated images.",""
-"色々な文字の表現。","色々な文字の表現。","Various expressions of characters.","Various expressions of characters.","Various expressions of characters.",""
-"[b]太い文字（ボールド）を表示します。[/b]","[b]太い文字（ボールド）を表示します。[/b]","[b]Displays thick text (bold).[/b]","[b]Displays thick text (bold).[/b]","[b]Displays thick text (bold).[/b]",""
-"[i]斜め文字（イタリック）を表示します。[/i]","[i]斜め文字（イタリック）を表示します。[/i]","[i]Displays oblique text (italics).[/i]","[i]Displays oblique text (italics).[/i]","[i]Displays oblique text (italics).[/i]",""
+Image movement + fade in + bobbing","Display an image.
+(Character appears)
+Image movement + fade in + bobbing"
+"ボタンの表示。","ボタンの表示。","Display buttons.","Display buttons.","Display buttons.","Display buttons."
+"ボタン１","ボタン１","Button 1","Button 1","Button 1","Button 1"
+"ボタン２","ボタン２","Button 2","Button 2","Button 2","Button 2"
+"ボタン１を押しました。","ボタン１を押しました。","Button 1 was pressed.","Button 1 was pressed.","Button 1 was pressed.","Button 1 was pressed."
+"ボタン２を押しました。","ボタン２を押しました。","Button 2 was pressed.","Button 2 was pressed.","Button 2 was pressed.","Button 2 was pressed."
+"MEの再生","MEの再生","Play ME.","Play ME.","Play ME.","Play ME."
+"効果音 + 画像揺れ","効果音 + 画像揺れ","Sound effects + Image shaking","Sound effects + Image shaking","Sound effects + Image shaking","Sound effects + Image shaking"
+"画面揺れ","画面揺れ","Screen Shaking","Screen Shaking","Screen Shaking","Screen Shaking"
+"画像のアニメーション","画像のアニメーション","Image animation","Image animation","Image animation","Image animation"
+"アニメーション画像の消去。","アニメーション画像の消去。","Erase animated images.","Erase animated images.","Erase animated images.","Erase animated images."
+"色々な文字の表現。","色々な文字の表現。","Various expressions of characters.","Various expressions of characters.","Various expressions of characters.","Various expressions of characters."
+"[b]太い文字（ボールド）を表示します。[/b]","[b]太い文字（ボールド）を表示します。[/b]","[b]Displays thick text (bold).[/b]","[b]Displays thick text (bold).[/b]","[b]Displays thick text (bold).[/b]","[b]Displays thick text (bold).[/b]"
+"[i]斜め文字（イタリック）を表示します。[/i]","[i]斜め文字（イタリック）を表示します。[/i]","[i]Displays oblique text (italics).[/i]","[i]Displays oblique text (italics).[/i]","[i]Displays oblique text (italics).[/i]","[i]Displays oblique text (italics).[/i]"
 "[color=red]文字の色を変更します。（赤色）[/color]
 [color=#FF6000]任意の色にも変更できます。（オレンジ色）[/color]","[color=red]文字の色を変更します。（赤色）[/color]
 [color=#FF6000]任意の色にも変更できます。（オレンジ色）[/color]","[color=red]Change the text color. (Red)[/color]
 [color=#FF6000]Can also change it to any color. (Orange)[/color]","[color=red]Change the text color. (Red)[/color]
 [color=#FF6000]Can also change it to any color. (Orange)[/color]","[color=red]Change the text color. (Red)[/color]
-[color=#FF6000]Can also change it to any color. (Orange)[/color]",""
-"[outline_color=#40FF40][outline_size=2]文字に外枠をつけます。[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]文字に外枠をつけます。[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]Add an outline to the text.[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]Add an outline to the text.[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]Add an outline to the text.[/outline_size][/outline_color]",""
-"[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]画像を表示します。","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]画像を表示します。","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]Display the image.","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]Display the image.","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]Display the image.",""
-"[wave amp=50 freq=2]波のアニメーションをつけます。[/wave]","[wave amp=50 freq=2]波のアニメーションをつけます。[/wave]","[wave amp=50 freq=2]Add wave animation.[/wave]","[wave amp=50 freq=2]Add wave animation.[/wave]","[wave amp=50 freq=2]Add wave animation.[/wave]",""
-"[tornado radius=5 freq=2]竜巻のアニメーションをつけます。[/tornado]","[tornado radius=5 freq=2]竜巻のアニメーションをつけます。[/tornado]","[tornado radius=5 freq=2]Add a tornado animation.[/tornado]","[tornado radius=5 freq=2]Add a tornado animation.[/tornado]","[tornado radius=5 freq=2]Add a tornado animation.[/tornado]",""
-"[shake rate=20 level=10]文字を揺らします。[/shake]","[shake rate=20 level=10]文字を揺らします。[/shake]","[shake rate=20 level=10]Shake the texts.[/shake]","[shake rate=20 level=10]Shake the texts.[/shake]","[shake rate=20 level=10]Shake the texts.[/shake]",""
-"[fade start=4 length=14]文字をだんだん薄くします。（フェード）[/fade]","[fade start=4 length=14]文字をだんだん薄くします。（フェード）[/fade]","[fade start=4 length=14]Gradually fade the text. (Fade)[/fade]","[fade start=4 length=14]Gradually fade the text. (Fade)[/fade]","[fade start=4 length=14]Gradually fade the text. (Fade)[/fade]",""
-"選択肢を表示します。","選択肢を表示します。","The options are displayed.","The options are displayed.","The options are displayed.",""
-"選択肢１","選択肢１","Option 1","Option 1","Option 1",""
-"選択肢２","選択肢２","Option 2","Option 2","Option 2",""
-"選択肢１を選びました。","選択肢１を選びました。","Option 1 was selected.","Option 1 was selected.","Option 1 was selected.",""
-"選択肢２を選びました。","選択肢２を選びました。","Option 2 was selected.","Option 2 was selected.","Option 2 was selected.",""
-"画面をフェードアウトします。","画面をフェードアウトします。","Fade out the screen.","Fade out the screen.","Fade out the screen.",""
-"画面をフェードインします。","画面をフェードインします。","Fade in the screen.","Fade in the screen.","Fade in the screen.",""
+[color=#FF6000]Can also change it to any color. (Orange)[/color]","[color=red]Change the text color. (Red)[/color]
+[color=#FF6000]Can also change it to any color. (Orange)[/color]"
+"[outline_color=#40FF40][outline_size=2]文字に外枠をつけます。[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]文字に外枠をつけます。[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]Add an outline to the text.[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]Add an outline to the text.[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]Add an outline to the text.[/outline_size][/outline_color]","[outline_color=#40FF40][outline_size=2]Add an outline to the text.[/outline_size][/outline_color]"
+"[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]画像を表示します。","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]画像を表示します。","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]Display the image.","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]Display the image.","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]Display the image.","[img=24]res://addons/novel_game_wizard/assets/sprites/pencil_01_32_32.png[/img]Display the image."
+"[wave amp=50 freq=2]波のアニメーションをつけます。[/wave]","[wave amp=50 freq=2]波のアニメーションをつけます。[/wave]","[wave amp=50 freq=2]Add wave animation.[/wave]","[wave amp=50 freq=2]Add wave animation.[/wave]","[wave amp=50 freq=2]Add wave animation.[/wave]","[wave amp=50 freq=2]Add wave animation.[/wave]"
+"[tornado radius=5 freq=2]竜巻のアニメーションをつけます。[/tornado]","[tornado radius=5 freq=2]竜巻のアニメーションをつけます。[/tornado]","[tornado radius=5 freq=2]Add a tornado animation.[/tornado]","[tornado radius=5 freq=2]Add a tornado animation.[/tornado]","[tornado radius=5 freq=2]Add a tornado animation.[/tornado]","[tornado radius=5 freq=2]Add a tornado animation.[/tornado]"
+"[shake rate=20 level=10]文字を揺らします。[/shake]","[shake rate=20 level=10]文字を揺らします。[/shake]","[shake rate=20 level=10]Shake the texts.[/shake]","[shake rate=20 level=10]Shake the texts.[/shake]","[shake rate=20 level=10]Shake the texts.[/shake]","[shake rate=20 level=10]Shake the texts.[/shake]"
+"[fade start=4 length=14]文字をだんだん薄くします。（フェード）[/fade]","[fade start=4 length=14]文字をだんだん薄くします。（フェード）[/fade]","[fade start=4 length=14]Gradually fade the text. (Fade)[/fade]","[fade start=4 length=14]Gradually fade the text. (Fade)[/fade]","[fade start=4 length=14]Gradually fade the text. (Fade)[/fade]","[fade start=4 length=14]Gradually fade the text. (Fade)[/fade]"
+"選択肢を表示します。","選択肢を表示します。","The options are displayed.","The options are displayed.","The options are displayed.","The options are displayed."
+"選択肢１","選択肢１","Option 1","Option 1","Option 1","Option 1"
+"選択肢２","選択肢２","Option 2","Option 2","Option 2","Option 2"
+"選択肢１を選びました。","選択肢１を選びました。","Option 1 was selected.","Option 1 was selected.","Option 1 was selected.","Option 1 was selected."
+"選択肢２を選びました。","選択肢２を選びました。","Option 2 was selected.","Option 2 was selected.","Option 2 was selected.","Option 2 was selected."
+"画面をフェードアウトします。","画面をフェードアウトします。","Fade out the screen.","Fade out the screen.","Fade out the screen.","Fade out the screen."
+"画面をフェードインします。","画面をフェードインします。","Fade in the screen.","Fade in the screen.","Fade in the screen.","Fade in the screen."
 "変数に値を代入します。
 （変数 var_1 に 5963 を代入します。）","変数に値を代入します。
 （変数 var_1 に 5963 を代入します。）","Assign a value to a variable.
 (Assign the value 5963 to the variable var_1.)","Assign a value to a variable.
 (Assign the value 5963 to the variable var_1.)","Assign a value to a variable.
-(Assign the value 5963 to the variable var_1.)",""
-"変数 var_1 の値は {var_1} です。","変数 var_1 の値は {var_1} です。","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}.",""
+(Assign the value 5963 to the variable var_1.)","Assign a value to a variable.
+(Assign the value 5963 to the variable var_1.)"
+"変数 var_1 の値は {var_1} です。","変数 var_1 の値は {var_1} です。","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}."
 "変数に計算式を代入し計算結果を記録します。
 （変数 var_1 に 100 + 100 を代入します。）","変数に計算式を代入し計算結果を記録します。
 （変数 var_1 に 100 + 100 を代入します。）","Assign a formula to a variable and record the calculation result.
 (Assign 100 + 100 to the variable var_1.)","Assign a formula to a variable and record the calculation result.
 (Assign 100 + 100 to the variable var_1.)","Assign a formula to a variable and record the calculation result.
-(Assign 100 + 100 to the variable var_1.)",""
-"変数 var_1 の値は {var_1} です。","変数 var_1 の値は {var_1} です。","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}.",""
-"ウィンドウを複数表示します。","ウィンドウを複数表示します。","Display multiple windows.","Display multiple windows.","Display multiple windows.",""
-"二つ目のウィンドウ。","二つ目のウィンドウ。","Second window.","Second window.","Second window.",""
-"二つ目のウィンドウを揺らす。","二つ目のウィンドウを揺らす。","Shake the second window.","Shake the second window.","Shake the second window.",""
-"二つ目のウィンドウの消去。","二つ目のウィンドウの消去。","Delete the second window.","Delete the second window.","Delete the second window.",""
-"画像の消去。","画像の消去。","Delete image.","Delete image.","Delete image.",""
-"画像の移動。","画像の移動。","Move image.","Move image.","Move image.",""
-"リニア","リニア","Linear","Linear","Linear",""
-"サイン・イン・サインアウト","サイン・イン・サインアウト","Sign in / Sign out","Sign in / Sign out","Sign in / Sign out",""
-"デモを終了します。","デモを終了します。","End the demo.","End the demo.","End the demo.",""
+(Assign 100 + 100 to the variable var_1.)","Assign a formula to a variable and record the calculation result.
+(Assign 100 + 100 to the variable var_1.)"
+"変数 var_1 の値は {var_1} です。","変数 var_1 の値は {var_1} です。","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}.","The variable var_1 has the value {var_1}."
+"ウィンドウを複数表示します。","ウィンドウを複数表示します。","Display multiple windows.","Display multiple windows.","Display multiple windows.","Display multiple windows."
+"二つ目のウィンドウ。","二つ目のウィンドウ。","Second window.","Second window.","Second window.","Second window."
+"二つ目のウィンドウを揺らす。","二つ目のウィンドウを揺らす。","Shake the second window.","Shake the second window.","Shake the second window.","Shake the second window."
+"二つ目のウィンドウの消去。","二つ目のウィンドウの消去。","Delete the second window.","Delete the second window.","Delete the second window.","Delete the second window."
+"画像の消去。","画像の消去。","Delete image.","Delete image.","Delete image.","Delete image."
+"画像の移動。","画像の移動。","Move image.","Move image.","Move image.","Move image."
+"リニア","リニア","Linear","Linear","Linear","Linear"
+"サイン・イン・サインアウト","サイン・イン・サインアウト","Sign in / Sign out","Sign in / Sign out","Sign in / Sign out","Sign in / Sign out"
+"デモを終了します。","デモを終了します。","End the demo.","End the demo.","End the demo.","End the demo."
 "エレベーターに足を踏み入れた瞬間、二つの異変に気づいた。 見慣れたはずの壁の落書きが、跡形もなく消えている。 そして、先客がいた。その表情はよく見えない。","エレベーターに足を踏み入れた瞬間、二つの異変に気づいた。 見慣れたはずの壁の落書きが、跡形もなく消えている。 そして、先客がいた。その表情はよく見えない。","","","",""
 "「探索者様ですね。何階をご利用ですか？」","「探索者様ですね。何階をご利用ですか？」","","","",""
 "それはエレベーターガールの姿をしていた。ただでさえ今はほぼ見ることの無い職種だが、
@@ -1272,7 +1279,23 @@ DEBUG MODE","","","",""
 ャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞
 くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕まえて煮
 て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼
-の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落","","","",""
+の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落","吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニ
+ャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞
+くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕まえて煮
+て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼
+の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落","吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニ
+ャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞
+くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕まえて煮
+て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼
+の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落","吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニ
+ャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞
+くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕まえて煮
+て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼
+の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落","吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニ
+ャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞
+くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕まえて煮
+て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼
+の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落"
 "ちついて書生の顔を見たのがいわゆる人間というものの見始めであろう。この時妙なものだと思った感じが
 今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶だ。その後ご猫にもだ
 いぶ逢ったがこんな片輪には一度も出会わした事がない。のみならず顔の真中があまりに突起している。そ
@@ -1281,7 +1304,23 @@ DEBUG MODE","","","",""
 今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶だ。その後ご猫にもだ
 いぶ逢ったがこんな片輪には一度も出会わした事がない。のみならず顔の真中があまりに突起している。そ
 うしてその穴の中から時々ぷうぷうと煙けむりを吹く。どうも咽せぽくて実に弱った。これが人間の飲む煙
-草というものである事はようやくこの頃知った。この書生の掌の裏でしばらくはよい心持に坐っておったが","","","",""
+草というものである事はようやくこの頃知った。この書生の掌の裏でしばらくはよい心持に坐っておったが","ちついて書生の顔を見たのがいわゆる人間というものの見始めであろう。この時妙なものだと思った感じが
+今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶だ。その後ご猫にもだ
+いぶ逢ったがこんな片輪には一度も出会わした事がない。のみならず顔の真中があまりに突起している。そ
+うしてその穴の中から時々ぷうぷうと煙けむりを吹く。どうも咽せぽくて実に弱った。これが人間の飲む煙
+草というものである事はようやくこの頃知った。この書生の掌の裏でしばらくはよい心持に坐っておったが","ちついて書生の顔を見たのがいわゆる人間というものの見始めであろう。この時妙なものだと思った感じが
+今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶だ。その後ご猫にもだ
+いぶ逢ったがこんな片輪には一度も出会わした事がない。のみならず顔の真中があまりに突起している。そ
+うしてその穴の中から時々ぷうぷうと煙けむりを吹く。どうも咽せぽくて実に弱った。これが人間の飲む煙
+草というものである事はようやくこの頃知った。この書生の掌の裏でしばらくはよい心持に坐っておったが","ちついて書生の顔を見たのがいわゆる人間というものの見始めであろう。この時妙なものだと思った感じが
+今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶だ。その後ご猫にもだ
+いぶ逢ったがこんな片輪には一度も出会わした事がない。のみならず顔の真中があまりに突起している。そ
+うしてその穴の中から時々ぷうぷうと煙けむりを吹く。どうも咽せぽくて実に弱った。これが人間の飲む煙
+草というものである事はようやくこの頃知った。この書生の掌の裏でしばらくはよい心持に坐っておったが","ちついて書生の顔を見たのがいわゆる人間というものの見始めであろう。この時妙なものだと思った感じが
+今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶だ。その後ご猫にもだ
+いぶ逢ったがこんな片輪には一度も出会わした事がない。のみならず顔の真中があまりに突起している。そ
+うしてその穴の中から時々ぷうぷうと煙けむりを吹く。どうも咽せぽくて実に弱った。これが人間の飲む煙
+草というものである事はようやくこの頃知った。この書生の掌の裏でしばらくはよい心持に坐っておったが"
 "、しばらくすると非常な速力で運転し始めた。書生が動くのか自分だけが動くのか分らないが無暗に眼が廻
 る。胸が悪くなる。到底助からないと思っていると、どさりと音がして眼から火が出た。それまでは記憶し
 ているがあとは何の事やらいくら考え出そうとしても分らない。ふと気が付いて見ると書生はいない。たく
@@ -1290,7 +1329,23 @@ DEBUG MODE","","","",""
 る。胸が悪くなる。到底助からないと思っていると、どさりと音がして眼から火が出た。それまでは記憶し
 ているがあとは何の事やらいくら考え出そうとしても分らない。ふと気が付いて見ると書生はいない。たく
 さんおった兄弟が一疋も見えぬ。肝心の母親さえ姿を隠してしまった。その上今いままでの所とは違って無
-暗に明るい。眼を明いていられぬくらいだ。はてな何でも容子がおかしいと、のそのそ這い出して見ると非","","","",""
+暗に明るい。眼を明いていられぬくらいだ。はてな何でも容子がおかしいと、のそのそ這い出して見ると非","、しばらくすると非常な速力で運転し始めた。書生が動くのか自分だけが動くのか分らないが無暗に眼が廻
+る。胸が悪くなる。到底助からないと思っていると、どさりと音がして眼から火が出た。それまでは記憶し
+ているがあとは何の事やらいくら考え出そうとしても分らない。ふと気が付いて見ると書生はいない。たく
+さんおった兄弟が一疋も見えぬ。肝心の母親さえ姿を隠してしまった。その上今いままでの所とは違って無
+暗に明るい。眼を明いていられぬくらいだ。はてな何でも容子がおかしいと、のそのそ這い出して見ると非","、しばらくすると非常な速力で運転し始めた。書生が動くのか自分だけが動くのか分らないが無暗に眼が廻
+る。胸が悪くなる。到底助からないと思っていると、どさりと音がして眼から火が出た。それまでは記憶し
+ているがあとは何の事やらいくら考え出そうとしても分らない。ふと気が付いて見ると書生はいない。たく
+さんおった兄弟が一疋も見えぬ。肝心の母親さえ姿を隠してしまった。その上今いままでの所とは違って無
+暗に明るい。眼を明いていられぬくらいだ。はてな何でも容子がおかしいと、のそのそ這い出して見ると非","、しばらくすると非常な速力で運転し始めた。書生が動くのか自分だけが動くのか分らないが無暗に眼が廻
+る。胸が悪くなる。到底助からないと思っていると、どさりと音がして眼から火が出た。それまでは記憶し
+ているがあとは何の事やらいくら考え出そうとしても分らない。ふと気が付いて見ると書生はいない。たく
+さんおった兄弟が一疋も見えぬ。肝心の母親さえ姿を隠してしまった。その上今いままでの所とは違って無
+暗に明るい。眼を明いていられぬくらいだ。はてな何でも容子がおかしいと、のそのそ這い出して見ると非","、しばらくすると非常な速力で運転し始めた。書生が動くのか自分だけが動くのか分らないが無暗に眼が廻
+る。胸が悪くなる。到底助からないと思っていると、どさりと音がして眼から火が出た。それまでは記憶し
+ているがあとは何の事やらいくら考え出そうとしても分らない。ふと気が付いて見ると書生はいない。たく
+さんおった兄弟が一疋も見えぬ。肝心の母親さえ姿を隠してしまった。その上今いままでの所とは違って無
+暗に明るい。眼を明いていられぬくらいだ。はてな何でも容子がおかしいと、のそのそ這い出して見ると非"
 "常に痛い。吾輩は藁わらの上から急に笹原の中へ棄てられたのである。ようやくの思いで笹原を這い出すと
 向うに大きな池がある。吾輩は池の前に坐ってどうしたらよかろうと考えて見た。別にこれという分別も出
 ない。しばらくして泣いたら書生がまた迎に来てくれるかと考え付いた。ニャー、ニャーと試みにやって見
@@ -1299,7 +1354,23 @@ DEBUG MODE","","","",""
 向うに大きな池がある。吾輩は池の前に坐ってどうしたらよかろうと考えて見た。別にこれという分別も出
 ない。しばらくして泣いたら書生がまた迎に来てくれるかと考え付いた。ニャー、ニャーと試みにやって見
 たが誰も来ない。そのうち池の上をさらさらと風が渡って日が暮れかかる。腹が非常に減って来た。泣きた
-くても声が出ない。仕方がない、何でもよいから食物のある所まであるこうと決心をしてそろりそろりと池","","","",""
+くても声が出ない。仕方がない、何でもよいから食物のある所まであるこうと決心をしてそろりそろりと池","常に痛い。吾輩は藁わらの上から急に笹原の中へ棄てられたのである。ようやくの思いで笹原を這い出すと
+向うに大きな池がある。吾輩は池の前に坐ってどうしたらよかろうと考えて見た。別にこれという分別も出
+ない。しばらくして泣いたら書生がまた迎に来てくれるかと考え付いた。ニャー、ニャーと試みにやって見
+たが誰も来ない。そのうち池の上をさらさらと風が渡って日が暮れかかる。腹が非常に減って来た。泣きた
+くても声が出ない。仕方がない、何でもよいから食物のある所まであるこうと決心をしてそろりそろりと池","常に痛い。吾輩は藁わらの上から急に笹原の中へ棄てられたのである。ようやくの思いで笹原を這い出すと
+向うに大きな池がある。吾輩は池の前に坐ってどうしたらよかろうと考えて見た。別にこれという分別も出
+ない。しばらくして泣いたら書生がまた迎に来てくれるかと考え付いた。ニャー、ニャーと試みにやって見
+たが誰も来ない。そのうち池の上をさらさらと風が渡って日が暮れかかる。腹が非常に減って来た。泣きた
+くても声が出ない。仕方がない、何でもよいから食物のある所まであるこうと決心をしてそろりそろりと池","常に痛い。吾輩は藁わらの上から急に笹原の中へ棄てられたのである。ようやくの思いで笹原を這い出すと
+向うに大きな池がある。吾輩は池の前に坐ってどうしたらよかろうと考えて見た。別にこれという分別も出
+ない。しばらくして泣いたら書生がまた迎に来てくれるかと考え付いた。ニャー、ニャーと試みにやって見
+たが誰も来ない。そのうち池の上をさらさらと風が渡って日が暮れかかる。腹が非常に減って来た。泣きた
+くても声が出ない。仕方がない、何でもよいから食物のある所まであるこうと決心をしてそろりそろりと池","常に痛い。吾輩は藁わらの上から急に笹原の中へ棄てられたのである。ようやくの思いで笹原を這い出すと
+向うに大きな池がある。吾輩は池の前に坐ってどうしたらよかろうと考えて見た。別にこれという分別も出
+ない。しばらくして泣いたら書生がまた迎に来てくれるかと考え付いた。ニャー、ニャーと試みにやって見
+たが誰も来ない。そのうち池の上をさらさらと風が渡って日が暮れかかる。腹が非常に減って来た。泣きた
+くても声が出ない。仕方がない、何でもよいから食物のある所まであるこうと決心をしてそろりそろりと池"
 "エラー","エラー","","","",""
 "端末を色々いじっていると、突然エレベーターが動き出し、止まった。
 階数表示は、「[outline_size=8][outline_color=red]И-4-12-Б-9-1階[/outline_color][/outline_size]」とある。
@@ -1315,7 +1386,23 @@ DEBUG MODE","","","",""
 演説会をやってゐるから、[color=green]直ぐやつて来て[/color]何にか話してくれと云ふ。其の演説会のある事はかねて[color=yellow]Ｈ[/color]から聞
 いてゐた。法政経済専門の学者の意見は聞きあきてもゐるし、それにとかく[color=red]国家[/color]とか[color=blue]政治[/color]とか法律とかの何
 等かの権威に囚はれた[color=gray]説[/color][color=green]ば[/color][color=yellow]か[/color][color=red]り[/color][color=blue]で[/color]面白くもないから、こんどは全く方針を変へて、文芸方面の新思想家を招
-きたいと云ふ話から、其の人選の相談にもちよつと与つた。そして弁士の一人として生田長江君を紹介して","","","",""
+きたいと云ふ話から、其の人選の相談にもちよつと与つた。そして弁士の一人として生田長江君を紹介して","四五年前の二月頃だった。[color=gray]或日、突然、明治大学[/color]の学生から電話がかかつて来て、今大学の講堂で学芸部の
+演説会をやってゐるから、[color=green]直ぐやつて来て[/color]何にか話してくれと云ふ。其の演説会のある事はかねて[color=yellow]Ｈ[/color]から聞
+いてゐた。法政経済専門の学者の意見は聞きあきてもゐるし、それにとかく[color=red]国家[/color]とか[color=blue]政治[/color]とか法律とかの何
+等かの権威に囚はれた[color=gray]説[/color][color=green]ば[/color][color=yellow]か[/color][color=red]り[/color][color=blue]で[/color]面白くもないから、こんどは全く方針を変へて、文芸方面の新思想家を招
+きたいと云ふ話から、其の人選の相談にもちよつと与つた。そして弁士の一人として生田長江君を紹介して","四五年前の二月頃だった。[color=gray]或日、突然、明治大学[/color]の学生から電話がかかつて来て、今大学の講堂で学芸部の
+演説会をやってゐるから、[color=green]直ぐやつて来て[/color]何にか話してくれと云ふ。其の演説会のある事はかねて[color=yellow]Ｈ[/color]から聞
+いてゐた。法政経済専門の学者の意見は聞きあきてもゐるし、それにとかく[color=red]国家[/color]とか[color=blue]政治[/color]とか法律とかの何
+等かの権威に囚はれた[color=gray]説[/color][color=green]ば[/color][color=yellow]か[/color][color=red]り[/color][color=blue]で[/color]面白くもないから、こんどは全く方針を変へて、文芸方面の新思想家を招
+きたいと云ふ話から、其の人選の相談にもちよつと与つた。そして弁士の一人として生田長江君を紹介して","四五年前の二月頃だった。[color=gray]或日、突然、明治大学[/color]の学生から電話がかかつて来て、今大学の講堂で学芸部の
+演説会をやってゐるから、[color=green]直ぐやつて来て[/color]何にか話してくれと云ふ。其の演説会のある事はかねて[color=yellow]Ｈ[/color]から聞
+いてゐた。法政経済専門の学者の意見は聞きあきてもゐるし、それにとかく[color=red]国家[/color]とか[color=blue]政治[/color]とか法律とかの何
+等かの権威に囚はれた[color=gray]説[/color][color=green]ば[/color][color=yellow]か[/color][color=red]り[/color][color=blue]で[/color]面白くもないから、こんどは全く方針を変へて、文芸方面の新思想家を招
+きたいと云ふ話から、其の人選の相談にもちよつと与つた。そして弁士の一人として生田長江君を紹介して","四五年前の二月頃だった。[color=gray]或日、突然、明治大学[/color]の学生から電話がかかつて来て、今大学の講堂で学芸部の
+演説会をやってゐるから、[color=green]直ぐやつて来て[/color]何にか話してくれと云ふ。其の演説会のある事はかねて[color=yellow]Ｈ[/color]から聞
+いてゐた。法政経済専門の学者の意見は聞きあきてもゐるし、それにとかく[color=red]国家[/color]とか[color=blue]政治[/color]とか法律とかの何
+等かの権威に囚はれた[color=gray]説[/color][color=green]ば[/color][color=yellow]か[/color][color=red]り[/color][color=blue]で[/color]面白くもないから、こんどは全く方針を変へて、文芸方面の新思想家を招
+きたいと云ふ話から、其の人選の相談にもちよつと与つた。そして弁士の一人として生田長江君を紹介して"
 "わたしは彼らが何を喋っているのかわからない。
 ここには用がなさそう。","わたしは彼らが何を喋っているのかわからない。
 ここには用がなさそう。","","","",""
@@ -2306,33 +2393,61 @@ DEBUG MODE","","","",""
 経過観察後、終了させるか、再配置させるかを判断する事とした。[/color]","[color=gray]マンションから出て、そのままどこかへ行こうとした財団職員を確保。抵抗はなかった。
 聴取を行ったところ、全ての「目標」や「願い」を失っていたようだった。
 経過観察後、終了させるか、再配置させるかを判断する事とした。[/color]","","","",""
-"test","test","test","test","test",""
-"health+1","health+1","health+1","health+1","health+1",""
-"health-1","health-1","health-1","health-1","health-1",""
-"sanity+1","sanity+1","sanity+1","sanity+1","sanity+1",""
-"sanity-1","sanity-1","sanity-1","sanity-1","sanity-1",""
-"test1","test1","test1","test1","test1",""
+"test","test","test","test","test","test"
+"health+1","health+1","health+1","health+1","health+1","health+1"
+"health-1","health-1","health-1","health-1","health-1","health-1"
+"sanity+1","sanity+1","sanity+1","sanity+1","sanity+1","sanity+1"
+"sanity-1","sanity-1","sanity-1","sanity-1","sanity-1","sanity-1"
+"test1","test1","test1","test1","test1","test1"
 "現状、一度だけ＆一瞬しか表示されない立ち絵の２人
 もっと使わなきゃ・・・","現状、一度だけ＆一瞬しか表示されない立ち絵の２人
-もっと使わなきゃ・・・","","","",""
-"test3","test3","test3","test3","test3",""
+もっと使わなきゃ・・・","test","test","test","test"
+"test3","test3","test3","test3","test3","test3"
 "重い瞼を開け、体を起こす。周囲を見回し、深くため息をつく。
 自分の両手を見つめ、握ったり開いたりした。","重い瞼を開け、体を起こす。周囲を見回し、深くため息をつく。
-自分の両手を見つめ、握ったり開いたりした。","","","",""
+自分の両手を見つめ、握ったり開いたりした。","I force my heavy eyelids open and sit up. Looking around at my surroundings, I let out a deep sigh.
+Staring down at my own two hands, I open and close them into fists.","睁开沉重的双眼，坐起身来。环顾四周，深深地叹了一口气。
+凝视着自己的双手，反复握紧又松开。","무거운 눈꺼풀을 열고 몸을 일으킨다. 주위를 둘러보고는 깊은 한숨을 내쉰다.
+자신의 양손을 가만히 바라보며 주먹을 쥐었다 폈다 했다.","Я открываю тяжёлые веки и приподнимаюсь. Оглядевшись вокруг, тяжело вздыхаю.
+Смотрю на свои руки, то сжимая их в кулаки, то разжимая."
 "まだ自分が自分であった時。いつものように、万が一の保険として仕掛けておいた「仮眠室」。
 自嘲気味に、しかし安堵の混じった笑いを漏らす。
 わかっている。あれは夢なんかじゃない。","まだ自分が自分であった時。いつものように、万が一の保険として仕掛けておいた「仮眠室」。
 自嘲気味に、しかし安堵の混じった笑いを漏らす。
-わかっている。あれは夢なんかじゃない。","","","",""
+わかっている。あれは夢なんかじゃない。","Back when I was still myself. As always, I set up the ""Nap Room"" as a safety net, just in case.
+A self-deprecating smile escapes my lips, yet it’s laced with relief.
+I know. That was no dream.","还是我自己时的那段时光。一如既往，为了以防万一而留作保险的“休憩室”。
+自嘲地笑了笑，笑意中却又夹杂着一丝安心。
+我很清楚。那绝不是梦。","아직 내가 나였을 때. 언제나처럼 만일의 사태를 대비해 보험으로 준비해 둔 '가면실'.
+자조 섞인, 그러면서도 안도가 교차하는 웃음이 새어 나온다.
+알고 있다. 그건 꿈 같은 게 아니라는 걸.","Когда я ещё был собой. Как и всегда, на всякий случай я подготовил «Комнату отдыха» в качестве страховки.
+С моих губ слетает самокритичная, но полная облегчения усмешка.
+Я знаю. Это был не сон."
 "あの生々しい全能感、世界に溶け込んだような自我……全部、現実に起きたことだ。
 一歩間違えれば、いや、一歩間違えたんだ。
 なんて愚かなことをしてしまったんだ、俺は。","あの生々しい全能感、世界に溶け込んだような自我……全部、現実に起きたことだ。
 一歩間違えれば、いや、一歩間違えたんだ。
-なんて愚かなことをしてしまったんだ、俺は。","","","",""
+なんて愚かなことをしてしまったんだ、俺は。","That vivid sense of omnipotence, that ego dissolving into the world... all of it really happened.
+One wrong move—no, I did make a wrong move.
+What a fool I've been. What have I done?","那份逼真的万能感，仿佛融入世界一般的自我……全部，都是现实中发生过的事。
+稍有不慎就会——不，我已经走错那一步了。
+我到底做下了何等愚蠢的孽啊。","그 생생한 전능감, 세계에 녹아든 것만 같던 자아…… 전부, 현실에서 일어난 일이다.
+한 끗 차이로 잘못됐다간——아니, 이미 잘못 디딘 거다.
+내가 대체 무슨 어리석은 짓을 저질러 버린 거지.","То живое чувство всемогущества, это растворившееся в мире эго... всё это произошло наяву.
+Один неверный шаг — нет, я уже совершил эту ошибку.
+Какую же глупость я совершил... О чём я только думал?"
 "生還できただけでなく、こうして「異質化」する前の、ただの不完全な人間に戻ることができた。
 立ち上がり、エレベーターに向かって歩き出す。
 ……いっそ、あのまま…いや。","生還できただけでなく、こうして「異質化」する前の、ただの不完全な人間に戻ることができた。
 立ち上がり、エレベーターに向かって歩き出す。
-……いっそ、あのまま…いや。","","","",""
-"さて、探索の続きだ。","さて、探索の続きだ。","","","",""
+……いっそ、あのまま…いや。","Not only did I survive, but I also managed to return to being just an imperfect human—before the ""anomalization"" took hold.
+I stand up and begin walking toward the elevator.
+...Perhaps it would have been better if I had just... No.","不仅成功生还，还变回了这样在“异质化”之前、只是个不完美的人类。
+我站起身，迈步向电梯走去。
+……哪怕就那样……不。","생환했을 뿐만 아니라, 이렇게 '이질화'되기 전의 그저 불완전한 인간으로 돌아올 수 있었다.
+일어나 엘리베이터를 향해 걸어가기 시작한다.
+……차라리, 그대대로…… 아니지.","Я не просто выжил, мне удалось снова стать обычным, несовершенным человеком — таким, каким я был до «искажения».
+Я поднимаюсь и направляюсь к лифту.
+...Может, стоило так и остаться... Нет."
+"さて、探索の続きだ。","さて、探索の続きだ。","Well then, time to resume the exploration.","好了，继续探索吧。","자, 탐색을 계속하자.","Что ж, пора продолжать исследование."
 "　　","","","","",""
