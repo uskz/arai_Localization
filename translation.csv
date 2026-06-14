@@ -102,27 +102,33 @@ Image movement + fade in + bobbing"
 "リニア","リニア","Linear","Linear","Linear","Linear"
 "サイン・イン・サインアウト","サイン・イン・サインアウト","Sign in / Sign out","Sign in / Sign out","Sign in / Sign out","Sign in / Sign out"
 "デモを終了します。","デモを終了します。","End the demo.","End the demo.","End the demo.","End the demo."
-"エレベーターに足を踏み入れた瞬間、二つの異変に気づいた。 見慣れたはずの壁の落書きが、跡形もなく消えている。 そして、先客がいた。その表情はよく見えない。","エレベーターに足を踏み入れた瞬間、二つの異変に気づいた。 見慣れたはずの壁の落書きが、跡形もなく消えている。 そして、先客がいた。その表情はよく見えない。","","","",""
-"「探索者様ですね。何階をご利用ですか？」","「探索者様ですね。何階をご利用ですか？」","","","",""
+"エレベーターに足を踏み入れた瞬間、二つの異変に気づいた。 見慣れたはずの壁の落書きが、跡形もなく消えている。 そして、先客がいた。その表情はよく見えない。","エレベーターに足を踏み入れた瞬間、二つの異変に気づいた。 見慣れたはずの壁の落書きが、跡形もなく消えている。 そして、先客がいた。その表情はよく見えない。","The moment I stepped into the elevator, I noticed two things out of place.
+The graffiti on the wall, which should have been a familiar sight, was gone without a trace.
+And there was someone already inside—their face obscured from view.","","",""
+"「探索者様ですね。何階をご利用ですか？」","「探索者様ですね。何階をご利用ですか？」","""You must be the Seeker. Which floor will you be visiting?""","","",""
 "それはエレベーターガールの姿をしていた。ただでさえ今はほぼ見ることの無い職種だが、
 マンションにエレベーターガールというのもより奇妙だ。
 冗談のつもりで、マンションを探索しなくても済むような階はないか聞いた。","それはエレベーターガールの姿をしていた。ただでさえ今はほぼ見ることの無い職種だが、
 マンションにエレベーターガールというのもより奇妙だ。
-冗談のつもりで、マンションを探索しなくても済むような階はないか聞いた。","","","",""
+冗談のつもりで、マンションを探索しなくても済むような階はないか聞いた。","It took the form of an elevator girl. Even in this day and age, it’s a profession you almost never see anymore—making her presence in an apartment mansion all the more bizarre.
+Just as a joke, I asked her if there was a floor that would save me from having to explore the building anymore.","","",""
 "「かしこまりました。」
 そういうとなんらかの階数を入力し、エレベーターは動き出した。","「かしこまりました。」
-そういうとなんらかの階数を入力し、エレベーターは動き出した。","","","",""
-"エレベーター内調査中...","エレベーター内調査中...","","","",""
+そういうとなんらかの階数を入力し、エレベーターは動き出した。","""Understood.""
+With that, they entered a floor number, and the elevator began to move.","","",""
+"エレベーター内調査中...","エレベーター内調査中...","Investigating elevator...","","",""
 "偽エレベーターガールがいる。
 背丈の小さい、カワウソ系のようなフレンズだ。
 エレベーターガールの制服が似合っておらず、真似事をしているとわかる。","偽エレベーターガールがいる。
 背丈の小さい、カワウソ系のようなフレンズだ。
-エレベーターガールの制服が似合っておらず、真似事をしているとわかる。","","","",""
-"「あなたの望みの階は・・・ここですね！」","「あなたの望みの階は・・・ここですね！」","","","",""
+エレベーターガールの制服が似合っておらず、真似事をしているとわかる。","There is a fake elevator girl.
+She is a small, otter-like Friend.
+Her elevator girl uniform doesn't fit her at all, making it obvious she's just playing pretend.","","",""
+"「あなたの望みの階は・・・ここですね！」","「あなたの望みの階は・・・ここですね！」","""The floor you desire... is right here!""","","",""
 "[color=green]●デタラメに入力された階に連れていかれます。[/color]
 [color=green]　ただし、エレベーター酔いは発生しません。[/color]","[color=green]●デタラメに入力された階に連れていかれます。[/color]
-[color=green]　ただし、エレベーター酔いは発生しません。[/color]","","","",""
-"別の探索者が記したと思われる階数情報が、エレベーターの壁にいくつか書かれている。","別の探索者が記したと思われる階数情報が、エレベーターの壁にいくつか書かれている。","","","",""
+[color=green]　ただし、エレベーター酔いは発生しません。[/color]","[color=green]It will take you to a completely random floor. Don't worry, you won't get elevator sickness.[/color]","","",""
+"別の探索者が記したと思われる階数情報が、エレベーターの壁にいくつか書かれている。","別の探索者が記したと思われる階数情報が、エレベーターの壁にいくつか書かれている。","Several floor numbers, seemingly written by another explorer, are scribbled on the elevator wall.","","",""
 "[outline_size=8][outline_color=red]7-9-Е-Б→→[/outline_color][/outline_size]　＝　ENTRANCE←GOOD!←TRUE
 [s][outline_size=8][outline_color=red]9-19-Ж↖←[/outline_color][/outline_size]　＝　STORE←HELL[/s]
 [outline_size=8][outline_color=red]В-5-В-А↑↓[/outline_color][/outline_size]　＝　DINER
@@ -131,14 +137,42 @@ Image movement + fade in + bobbing"
 [s][outline_size=8][outline_color=red]9-19-Ж↖←[/outline_color][/outline_size]　＝　STORE←HELL[/s]
 [outline_size=8][outline_color=red]В-5-В-А↑↓[/outline_color][/outline_size]　＝　DINER
 [s][outline_size=8][outline_color=red]И-16-10-Г↗↘[/outline_color][/outline_size]　＝　PARKING←HELL[/s]
-[outline_size=8][outline_color=red]Ж-Е-7-Г↖→[/outline_color][/outline_size]　＝　おじぞうさま←SPEAK ENGLISH!!!","","","",""
+[outline_size=8][outline_color=red]Ж-Е-7-Г↖→[/outline_color][/outline_size]　＝　おじぞうさま←SPEAK ENGLISH!!!","[outline_size=8][outline_color=red]7-9-Е-Б→→[/outline_color][/outline_size]　＝　ENTRANCE←GOOD!←TRUE
+[s][outline_size=8][outline_color=red]9-19-Ж↖←[/outline_color][/outline_size]　＝　STORE←HELL[/s]
+[outline_size=8][outline_color=red]В-5-В-А↑↓[/outline_color][/outline_size]　＝　DINER
+[s][outline_size=8][outline_color=red]И-16-10-Г↗↘[/outline_color][/outline_size]　＝　PARKING←HELL[/s]
+[outline_size=8][outline_color=red]Ж-Е-7-Г↖→[/outline_color][/outline_size]　＝　おじぞうさま←SPEAK ENGLISH!!!","[outline_size=8][outline_color=red]7-9-Е-Б→→[/outline_color][/outline_size]　＝　ENTRANCE←GOOD!←TRUE
+[s][outline_size=8][outline_color=red]9-19-Ж↖←[/outline_color][/outline_size]　＝　STORE←HELL[/s]
+[outline_size=8][outline_color=red]В-5-В-А↑↓[/outline_color][/outline_size]　＝　DINER
+[s][outline_size=8][outline_color=red]И-16-10-Г↗↘[/outline_color][/outline_size]　＝　PARKING←HELL[/s]
+[outline_size=8][outline_color=red]Ж-Е-7-Г↖→[/outline_color][/outline_size]　＝　おじぞうさま←SPEAK ENGLISH!!!","[outline_size=8][outline_color=red]7-9-Е-Б→→[/outline_color][/outline_size]　＝　ENTRANCE←GOOD!←TRUE
+[s][outline_size=8][outline_color=red]9-19-Ж↖←[/outline_color][/outline_size]　＝　STORE←HELL[/s]
+[outline_size=8][outline_color=red]В-5-В-А↑↓[/outline_color][/outline_size]　＝　DINER
+[s][outline_size=8][outline_color=red]И-16-10-Г↗↘[/outline_color][/outline_size]　＝　PARKING←HELL[/s]
+[outline_size=8][outline_color=red]Ж-Е-7-Г↖→[/outline_color][/outline_size]　＝　おじぞうさま←SPEAK ENGLISH!!!","[outline_size=8][outline_color=red]7-9-Е-Б→→[/outline_color][/outline_size]　＝　ENTRANCE←GOOD!←TRUE
+[s][outline_size=8][outline_color=red]9-19-Ж↖←[/outline_color][/outline_size]　＝　STORE←HELL[/s]
+[outline_size=8][outline_color=red]В-5-В-А↑↓[/outline_color][/outline_size]　＝　DINER
+[s][outline_size=8][outline_color=red]И-16-10-Г↗↘[/outline_color][/outline_size]　＝　PARKING←HELL[/s]
+[outline_size=8][outline_color=red]Ж-Е-7-Г↖→[/outline_color][/outline_size]　＝　おじぞうさま←SPEAK ENGLISH!!!"
 "[s][outline_size=8][outline_color=red]А-Г-14-Ж-１-Ж-8-8-Е↓↑[/outline_color][/outline_size]　＝　(判別できない文字)[/s]←WHO THE FUCK WROTE THIS??
 [outline_size=8][outline_color=red]Д-Д-В-А↓→[/outline_color][/outline_size]　＝　[s]HOSPITAL[/s]
 [outline_size=8][outline_color=red]16-6-7-2↑↓[/outline_color][/outline_size]　＝　CHURCH
 [outline_size=8][outline_color=red]2-2-А-Е→→[/outline_color][/outline_size]　＝　[s]BASEMENT[/s]","[s][outline_size=8][outline_color=red]А-Г-14-Ж-１-Ж-8-8-Е↓↑[/outline_color][/outline_size]　＝　(判別できない文字)[/s]←WHO THE FUCK WROTE THIS??
 [outline_size=8][outline_color=red]Д-Д-В-А↓→[/outline_color][/outline_size]　＝　[s]HOSPITAL[/s]
 [outline_size=8][outline_color=red]16-6-7-2↑↓[/outline_color][/outline_size]　＝　CHURCH
-[outline_size=8][outline_color=red]2-2-А-Е→→[/outline_color][/outline_size]　＝　[s]BASEMENT[/s]","","","",""
+[outline_size=8][outline_color=red]2-2-А-Е→→[/outline_color][/outline_size]　＝　[s]BASEMENT[/s]","[s][outline_size=8][outline_color=red]А-Г-14-Ж-１-Ж-8-8-Е↓↑[/outline_color][/outline_size]　＝　(判別できない文字)[/s]←WHO THE FUCK WROTE THIS??
+[outline_size=8][outline_color=red]Д-Д-В-А↓→[/outline_color][/outline_size]　＝　[s]HOSPITAL[/s]
+[outline_size=8][outline_color=red]16-6-7-2↑↓[/outline_color][/outline_size]　＝　CHURCH
+[outline_size=8][outline_color=red]2-2-А-Е→→[/outline_color][/outline_size]　＝　[s]BASEMENT[/s]","[s][outline_size=8][outline_color=red]А-Г-14-Ж-１-Ж-8-8-Е↓↑[/outline_color][/outline_size]　＝　(判別できない文字)[/s]←WHO THE FUCK WROTE THIS??
+[outline_size=8][outline_color=red]Д-Д-В-А↓→[/outline_color][/outline_size]　＝　[s]HOSPITAL[/s]
+[outline_size=8][outline_color=red]16-6-7-2↑↓[/outline_color][/outline_size]　＝　CHURCH
+[outline_size=8][outline_color=red]2-2-А-Е→→[/outline_color][/outline_size]　＝　[s]BASEMENT[/s]","[s][outline_size=8][outline_color=red]А-Г-14-Ж-１-Ж-8-8-Е↓↑[/outline_color][/outline_size]　＝　(判別できない文字)[/s]←WHO THE FUCK WROTE THIS??
+[outline_size=8][outline_color=red]Д-Д-В-А↓→[/outline_color][/outline_size]　＝　[s]HOSPITAL[/s]
+[outline_size=8][outline_color=red]16-6-7-2↑↓[/outline_color][/outline_size]　＝　CHURCH
+[outline_size=8][outline_color=red]2-2-А-Е→→[/outline_color][/outline_size]　＝　[s]BASEMENT[/s]","[s][outline_size=8][outline_color=red]А-Г-14-Ж-１-Ж-8-8-Е↓↑[/outline_color][/outline_size]　＝　(判別できない文字)[/s]←WHO THE FUCK WROTE THIS??
+[outline_size=8][outline_color=red]Д-Д-В-А↓→[/outline_color][/outline_size]　＝　[s]HOSPITAL[/s]
+[outline_size=8][outline_color=red]16-6-7-2↑↓[/outline_color][/outline_size]　＝　CHURCH
+[outline_size=8][outline_color=red]2-2-А-Е→→[/outline_color][/outline_size]　＝　[s]BASEMENT[/s]"
 "[outline_size=8][outline_color=red]8-2-6-Г-И[/outline_color][/outline_size]　＝　THEATER
 [outline_size=8][outline_color=red]12-11-1-А-Д[/outline_color][/outline_size]　＝　[s]GYM[/s]
 [outline_size=8][outline_color=red]5-8-11-11-В-6←→[/outline_color][/outline_size]　＝　(判別できない文字)←Fuckin' HOPE!!
@@ -147,7 +181,23 @@ Image movement + fade in + bobbing"
 [outline_size=8][outline_color=red]12-11-1-А-Д[/outline_color][/outline_size]　＝　[s]GYM[/s]
 [outline_size=8][outline_color=red]5-8-11-11-В-6←→[/outline_color][/outline_size]　＝　(判別できない文字)←Fuckin' HOPE!!
 [outline_size=8][outline_color=red]2-В-5-8↑←[/outline_color][/outline_size]　＝　(沢山の目が描かれている)
-[outline_size=8][outline_color=red]Д-3-10-А→↓[/outline_color][/outline_size]　＝　UPSIDE DOWN","","","",""
+[outline_size=8][outline_color=red]Д-3-10-А→↓[/outline_color][/outline_size]　＝　UPSIDE DOWN","[outline_size=8][outline_color=red]8-2-6-Г-И[/outline_color][/outline_size]　＝　THEATER
+[outline_size=8][outline_color=red]12-11-1-А-Д[/outline_color][/outline_size]　＝　[s]GYM[/s]
+[outline_size=8][outline_color=red]5-8-11-11-В-6←→[/outline_color][/outline_size]　＝　(判別できない文字)←Fuckin' HOPE!!
+[outline_size=8][outline_color=red]2-В-5-8↑←[/outline_color][/outline_size]　＝　(沢山の目が描かれている)
+[outline_size=8][outline_color=red]Д-3-10-А→↓[/outline_color][/outline_size]　＝　UPSIDE DOWN","[outline_size=8][outline_color=red]8-2-6-Г-И[/outline_color][/outline_size]　＝　THEATER
+[outline_size=8][outline_color=red]12-11-1-А-Д[/outline_color][/outline_size]　＝　[s]GYM[/s]
+[outline_size=8][outline_color=red]5-8-11-11-В-6←→[/outline_color][/outline_size]　＝　(判別できない文字)←Fuckin' HOPE!!
+[outline_size=8][outline_color=red]2-В-5-8↑←[/outline_color][/outline_size]　＝　(沢山の目が描かれている)
+[outline_size=8][outline_color=red]Д-3-10-А→↓[/outline_color][/outline_size]　＝　UPSIDE DOWN","[outline_size=8][outline_color=red]8-2-6-Г-И[/outline_color][/outline_size]　＝　THEATER
+[outline_size=8][outline_color=red]12-11-1-А-Д[/outline_color][/outline_size]　＝　[s]GYM[/s]
+[outline_size=8][outline_color=red]5-8-11-11-В-6←→[/outline_color][/outline_size]　＝　(判別できない文字)←Fuckin' HOPE!!
+[outline_size=8][outline_color=red]2-В-5-8↑←[/outline_color][/outline_size]　＝　(沢山の目が描かれている)
+[outline_size=8][outline_color=red]Д-3-10-А→↓[/outline_color][/outline_size]　＝　UPSIDE DOWN","[outline_size=8][outline_color=red]8-2-6-Г-И[/outline_color][/outline_size]　＝　THEATER
+[outline_size=8][outline_color=red]12-11-1-А-Д[/outline_color][/outline_size]　＝　[s]GYM[/s]
+[outline_size=8][outline_color=red]5-8-11-11-В-6←→[/outline_color][/outline_size]　＝　(判別できない文字)←Fuckin' HOPE!!
+[outline_size=8][outline_color=red]2-В-5-8↑←[/outline_color][/outline_size]　＝　(沢山の目が描かれている)
+[outline_size=8][outline_color=red]Д-3-10-А→↓[/outline_color][/outline_size]　＝　UPSIDE DOWN"
 "[outline_size=8][outline_color=red]9-6-Е-③↖↘[/outline_color][/outline_size]　＝　みんみ←What's???
 [outline_size=8][outline_color=red]И-7-18-В→↙[/outline_color][/outline_size]　＝　SAFE
 [outline_size=8][outline_color=red]Б-А-19-10↑↓[/outline_color][/outline_size]　＝　""""NOT""""SAFE
@@ -156,297 +206,393 @@ Image movement + fade in + bobbing"
 [outline_size=8][outline_color=red]И-7-18-В→↙[/outline_color][/outline_size]　＝　SAFE
 [outline_size=8][outline_color=red]Б-А-19-10↑↓[/outline_color][/outline_size]　＝　""""NOT""""SAFE
 [outline_size=8][outline_color=red]А-8-11-И[/outline_color][/outline_size]　＝　SEA
-[outline_size=8][outline_color=red]Г-Д-③-19[/outline_color][/outline_size]　＝　DEEP SEA","","","",""
+[outline_size=8][outline_color=red]Г-Д-③-19[/outline_color][/outline_size]　＝　DEEP SEA","[outline_size=8][outline_color=red]9-6-Е-③↖↘[/outline_color][/outline_size]　＝　みんみ←What's???
+[outline_size=8][outline_color=red]И-7-18-В→↙[/outline_color][/outline_size]　＝　SAFE
+[outline_size=8][outline_color=red]Б-А-19-10↑↓[/outline_color][/outline_size]　＝　""""NOT""""SAFE
+[outline_size=8][outline_color=red]А-8-11-И[/outline_color][/outline_size]　＝　SEA
+[outline_size=8][outline_color=red]Г-Д-③-19[/outline_color][/outline_size]　＝　DEEP SEA","[outline_size=8][outline_color=red]9-6-Е-③↖↘[/outline_color][/outline_size]　＝　みんみ←What's???
+[outline_size=8][outline_color=red]И-7-18-В→↙[/outline_color][/outline_size]　＝　SAFE
+[outline_size=8][outline_color=red]Б-А-19-10↑↓[/outline_color][/outline_size]　＝　""""NOT""""SAFE
+[outline_size=8][outline_color=red]А-8-11-И[/outline_color][/outline_size]　＝　SEA
+[outline_size=8][outline_color=red]Г-Д-③-19[/outline_color][/outline_size]　＝　DEEP SEA","[outline_size=8][outline_color=red]9-6-Е-③↖↘[/outline_color][/outline_size]　＝　みんみ←What's???
+[outline_size=8][outline_color=red]И-7-18-В→↙[/outline_color][/outline_size]　＝　SAFE
+[outline_size=8][outline_color=red]Б-А-19-10↑↓[/outline_color][/outline_size]　＝　""""NOT""""SAFE
+[outline_size=8][outline_color=red]А-8-11-И[/outline_color][/outline_size]　＝　SEA
+[outline_size=8][outline_color=red]Г-Д-③-19[/outline_color][/outline_size]　＝　DEEP SEA","[outline_size=8][outline_color=red]9-6-Е-③↖↘[/outline_color][/outline_size]　＝　みんみ←What's???
+[outline_size=8][outline_color=red]И-7-18-В→↙[/outline_color][/outline_size]　＝　SAFE
+[outline_size=8][outline_color=red]Б-А-19-10↑↓[/outline_color][/outline_size]　＝　""""NOT""""SAFE
+[outline_size=8][outline_color=red]А-8-11-И[/outline_color][/outline_size]　＝　SEA
+[outline_size=8][outline_color=red]Г-Д-③-19[/outline_color][/outline_size]　＝　DEEP SEA"
 "[outline_size=8][outline_color=red]В-7-9-13-Б[/outline_color][/outline_size]　＝　Bottom of SEA
 [outline_size=8][outline_color=red]Г-2-5-Ж-6[/outline_color][/outline_size]　＝　Abyss
 [outline_size=8][outline_color=red]3-Е-19-7↙↙[/outline_color][/outline_size]　＝　SHADOW←safe←NO！","[outline_size=8][outline_color=red]В-7-9-13-Б[/outline_color][/outline_size]　＝　Bottom of SEA
 [outline_size=8][outline_color=red]Г-2-5-Ж-6[/outline_color][/outline_size]　＝　Abyss
-[outline_size=8][outline_color=red]3-Е-19-7↙↙[/outline_color][/outline_size]　＝　SHADOW←safe←NO！","","","",""
+[outline_size=8][outline_color=red]3-Е-19-7↙↙[/outline_color][/outline_size]　＝　SHADOW←safe←NO！","[outline_size=8][outline_color=red]В-7-9-13-Б[/outline_color][/outline_size]　＝　Bottom of SEA
+[outline_size=8][outline_color=red]Г-2-5-Ж-6[/outline_color][/outline_size]　＝　Abyss
+[outline_size=8][outline_color=red]3-Е-19-7↙↙[/outline_color][/outline_size]　＝　SHADOW←safe←NO！","[outline_size=8][outline_color=red]В-7-9-13-Б[/outline_color][/outline_size]　＝　Bottom of SEA
+[outline_size=8][outline_color=red]Г-2-5-Ж-6[/outline_color][/outline_size]　＝　Abyss
+[outline_size=8][outline_color=red]3-Е-19-7↙↙[/outline_color][/outline_size]　＝　SHADOW←safe←NO！","[outline_size=8][outline_color=red]В-7-9-13-Б[/outline_color][/outline_size]　＝　Bottom of SEA
+[outline_size=8][outline_color=red]Г-2-5-Ж-6[/outline_color][/outline_size]　＝　Abyss
+[outline_size=8][outline_color=red]3-Е-19-7↙↙[/outline_color][/outline_size]　＝　SHADOW←safe←NO！","[outline_size=8][outline_color=red]В-7-9-13-Б[/outline_color][/outline_size]　＝　Bottom of SEA
+[outline_size=8][outline_color=red]Г-2-5-Ж-6[/outline_color][/outline_size]　＝　Abyss
+[outline_size=8][outline_color=red]3-Е-19-7↙↙[/outline_color][/outline_size]　＝　SHADOW←safe←NO！"
 "天井には小さな扉があり、
 ガムテープで乱雑に封印されている。
 近くの壁に、その扉を指して「あけるな」と書かれている。","天井には小さな扉があり、
 ガムテープで乱雑に封印されている。
-近くの壁に、その扉を指して「あけるな」と書かれている。","","","",""
-"開けない","開けない","","","",""
-"開ける","開ける","","","",""
+近くの壁に、その扉を指して「あけるな」と書かれている。","There is a small door on the ceiling, messily sealed with duct tape. 
+On a nearby wall, ""DO NOT OPEN"" is written, pointing directly to that door.","","",""
+"開けない","開けない","Cannot be opened","","",""
+"開ける","開ける","Open","","",""
 "ガムテープを剥がし、蓋を押すと簡単に開いた。
 よじ登り、エレベーターシャフトを確認する。","ガムテープを剥がし、蓋を押すと簡単に開いた。
-よじ登り、エレベーターシャフトを確認する。","","","",""
+よじ登り、エレベーターシャフトを確認する。","I peeled off the duct tape and pushed the lid; it opened easily. 
+I climbed up and checked the elevator shaft.","","",""
 "赤い光で満ちたシャフト内。まっさきに目に飛び込んできたのは、宙に浮かぶエレベーター操作パネルだった。
 「何故こんなところに？」
 それを言ったのは自分のはずだが、まるで他人が呟いたかのようだった。","赤い光で満ちたシャフト内。まっさきに目に飛び込んできたのは、宙に浮かぶエレベーター操作パネルだった。
 「何故こんなところに？」
-それを言ったのは自分のはずだが、まるで他人が呟いたかのようだった。","","","",""
-"私は為すべき事を悟り、その操作パネルとひとつになった。そばにあった道具や仲間も私の中に招いた。このために今まで生きてきたのだと。訪れるべき階数が次々と浮かび、目の前に広がる。やるべきことはたくさんある。とても満たされた気分である。もはや話す事は何もない。","私は為すべき事を悟り、その操作パネルとひとつになった。そばにあった道具や仲間も私の中に招いた。このために今まで生きてきたのだと。訪れるべき階数が次々と浮かび、目の前に広がる。やるべきことはたくさんある。とても満たされた気分である。もはや話す事は何もない。","","","",""
-"{m_screen_msg}","{m_screen_msg}","{m_screen_msg}","{m_screen_msg}","{m_screen_msg}",""
-"{m_screen_msg_taihi}","{m_screen_msg_taihi}","{m_screen_msg_taihi}","{m_screen_msg_taihi}","{m_screen_msg_taihi}",""
-"マンションの入り口となるエントランスホール。","マンションの入り口となるエントランスホール。","","","",""
-"帰らなきゃ・・・・あの場所へ・・・・","帰らなきゃ・・・・あの場所へ・・・・","","","",""
-"エレベーター","エレベーター","","","",""
-"マーケット","マーケット","","","",""
-"管理人室","管理人室","","","",""
-"外泊","外泊","","","",""
+それを言ったのは自分のはずだが、まるで他人が呟いたかのようだった。","Inside the shaft, flooded with red light. The first thing that caught my eye was the floating elevator control panel.
+""Why is something like this here?""
+I must have been the one who said it, yet it sounded as though someone else had whispered it.","","",""
+"私は為すべき事を悟り、その操作パネルとひとつになった。そばにあった道具や仲間も私の中に招いた。このために今まで生きてきたのだと。訪れるべき階数が次々と浮かび、目の前に広がる。やるべきことはたくさんある。とても満たされた気分である。もはや話す事は何もない。","私は為すべき事を悟り、その操作パネルとひとつになった。そばにあった道具や仲間も私の中に招いた。このために今まで生きてきたのだと。訪れるべき階数が次々と浮かび、目の前に広がる。やるべきことはたくさんある。とても満たされた気分である。もはや話す事は何もない。","I realized what I had to do and became one with the control panel. I invited the tools and companions that were nearby into me. I knew then that this was what I had been living for all this time. The floors I needed to visit surfaced one after another, expanding before my eyes. There is so much to be done. I feel so deeply fulfilled. There is nothing left to say anymore.","","",""
+"{m_screen_msg}","{m_screen_msg}","{m_screen_msg}","{m_screen_msg}","{m_screen_msg}","{m_screen_msg}"
+"{m_screen_msg_taihi}","{m_screen_msg_taihi}","{m_screen_msg_taihi}","{m_screen_msg_taihi}","{m_screen_msg_taihi}","{m_screen_msg_taihi}"
+"マンションの入り口となるエントランスホール。","マンションの入り口となるエントランスホール。","The entrance hall that serves as the gateway to the mansion.","","",""
+"帰らなきゃ・・・・あの場所へ・・・・","帰らなきゃ・・・・あの場所へ・・・・","""I have to go back... to that place...""","","",""
+"エレベーター","エレベーター","Elevator","","",""
+"マーケット","マーケット","Market","","",""
+"管理人室","管理人室","Manager's Office","","",""
+"外泊","外泊","Stay out overnight","","",""
 "自分を複製している事がバレたら処分されてしまう。
 今の状態で管理人室に入る事はできない。","自分を複製している事がバレたら処分されてしまう。
-今の状態で管理人室に入る事はできない。","","","",""
-"[color=green]●撤退します。[/color]","[color=green]●撤退します。[/color]","","","",""
+今の状態で管理人室に入る事はできない。","If they find out I'm cloning myself, I'll be disposed of.
+I can't enter the Manager's Room in my current state.","","",""
+"[color=green]●撤退します。[/color]","[color=green]●撤退します。[/color]","[color=green]●I am retreating.[/color]","","",""
 "結構な高さを落ちてきたが、ゴミがクッションになり助かった。
 立ち上がって周りを見ると、一面ゴミだらけの広大な空間だった。
 
 遠くに人影が見える。","結構な高さを落ちてきたが、ゴミがクッションになり助かった。
 立ち上がって周りを見ると、一面ゴミだらけの広大な空間だった。
 
-遠くに人影が見える。","","","",""
-"【GAME OVER】探索者は消息を絶ちました。","【GAME OVER】探索者は消息を絶ちました。","","","",""
-"【GAME OVER】これはチュートリアルのため、次に進みます。","【GAME OVER】これはチュートリアルのため、次に進みます。","","","",""
+遠くに人影が見える。","I fell from quite a height, but the piles of trash cushioned my fall and saved me.
+As I stood up and looked around, I found myself in a vast space covered entirely in garbage.
+
+I can see a human figure in the distance.","","",""
+"【GAME OVER】探索者は消息を絶ちました。","【GAME OVER】探索者は消息を絶ちました。","【GAME OVER】The explorer has gone missing.","","",""
+"【GAME OVER】これはチュートリアルのため、次に進みます。","【GAME OVER】これはチュートリアルのため、次に進みます。","【GAME OVER】This is a tutorial, so we will proceed to the next step.","","",""
 "■1日目","■1日目","■Day 1","■第1天","■1일차",""
 "見た目は本当に普通のマンションだ。
 出入りしているのは自分のような探索者か、「アニマルガール」または「フレンズ」と呼ばれる種族だという事を除けば。","見た目は本当に普通のマンションだ。
-出入りしているのは自分のような探索者か、「アニマルガール」または「フレンズ」と呼ばれる種族だという事を除けば。","","","",""
-"フレンズ達は、人間より遥かに身体能力が高い。協力をしてもらえれば調査の役に立ちそうだが・・・","フレンズ達は、人間より遥かに身体能力が高い。協力をしてもらえれば調査の役に立ちそうだが・・・","","","",""
+出入りしているのは自分のような探索者か、「アニマルガール」または「フレンズ」と呼ばれる種族だという事を除けば。","On the surface, it looks just like an ordinary apartment building. 
+The only difference is that the people coming and going are either explorers like myself, or a species known as ""Animal Girls"" or ""Friends.""","","",""
+"フレンズ達は、人間より遥かに身体能力が高い。協力をしてもらえれば調査の役に立ちそうだが・・・","フレンズ達は、人間より遥かに身体能力が高い。協力をしてもらえれば調査の役に立ちそうだが・・・","Friends possess physical abilities far superior to humans. If they cooperate, they would surely be helpful with the investigation... but...","","",""
 "そのような事を考えていると、
 さっそくアライグマのフレンズに声をかけられた。","そのような事を考えていると、
-さっそくアライグマのフレンズに声をかけられた。","","","",""
-"「おっさん、見ない顔なのだ。新しい住人なのだ？」","「おっさん、見ない顔なのだ。新しい住人なのだ？」","","","",""
-"「ああ、マンションの調査を行うために来た。しばらくエントランスの管理人室に間借りさせてもらうよ。よろしく」","「ああ、マンションの調査を行うために来た。しばらくエントランスの管理人室に間借りさせてもらうよ。よろしく」","","","",""
-"財団のこと以外は、何も隠さなくて良いと言われている。ありのままを伝えた。","財団のこと以外は、何も隠さなくて良いと言われている。ありのままを伝えた。","","","",""
+さっそくアライグマのフレンズに声をかけられた。","While thinking about such things, a Raccoon Friend struck up a conversation with me right away.","","",""
+"「おっさん、見ない顔なのだ。新しい住人なのだ？」","「おっさん、見ない顔なのだ。新しい住人なのだ？」","""Hey mister, I haven't seen your face around here. Are you a new resident?""","","",""
+"「ああ、マンションの調査を行うために来た。しばらくエントランスの管理人室に間借りさせてもらうよ。よろしく」","「ああ、マンションの調査を行うために来た。しばらくエントランスの管理人室に間借りさせてもらうよ。よろしく」","Yeah, I'm here to investigate the mansion. I'll be crashin' in the manager's office by the entrance for a while. Nice to meet ya.","","",""
+"財団のこと以外は、何も隠さなくて良いと言われている。ありのままを伝えた。","財団のこと以外は、何も隠さなくて良いと言われている。ありのままを伝えた。","I’ve been told that I don’t need to hide anything except for matters regarding the Foundation. I told them everything, just as it was.","","",""
 "「よろしくなのだ。アライさんは	[outline_size=8][outline_color=red]Г-１-13-Д↗←階[/outline_color][/outline_size]に住んでいるのだ」
 [color=green]●特別階の情報は、得た時点でReportに記録されます。
 　Reportはこの後見れるようになります。[/color]","「よろしくなのだ。アライさんは	[outline_size=8][outline_color=red]Г-１-13-Д↗←階[/outline_color][/outline_size]に住んでいるのだ」
 [color=green]●特別階の情報は、得た時点でReportに記録されます。
-　Reportはこの後見れるようになります。[/color]","","","",""
+　Reportはこの後見れるようになります。[/color]","""Glad to meet ya! Arai-san lives on the [outline_size=8][outline_color=red]Г-１-13-Д↗← Floor[/outline_color][/outline_size], ya know!""
+[color=green]● Information on Special Floors will be recorded in the Report as soon as it is obtained.
+ The Report will be accessible after this.[/color]","","",""
 "自身をアライさんと名乗ったフレンズとわかれ、
 エントランスにある管理人室に向かった。","自身をアライさんと名乗ったフレンズとわかれ、
-エントランスにある管理人室に向かった。","","","",""
+エントランスにある管理人室に向かった。","After parting ways with the Friend who called herself Arai-san, I headed toward the manager's office in the entrance.","","",""
 "管理人室は誰も住んでおらず、財団が確保している。
 今は探索者は自分一人だが、もしかしたら人員の補充があるかもしれないとのこと。","管理人室は誰も住んでおらず、財団が確保している。
-今は探索者は自分一人だが、もしかしたら人員の補充があるかもしれないとのこと。","","","",""
+今は探索者は自分一人だが、もしかしたら人員の補充があるかもしれないとのこと。","The manager's office is currently unoccupied and has been secured by the Foundation.
+Although I am the only explorer at the moment, I was told that there might be additional personnel deployed in the future.","","",""
 "調査中にかかる費用はマンション内で拾ったものを売ったり、大家の真似事をして自力で稼ぐ必要がある。
 「大家の真似事」とは、探索の中で安全を確認した部屋にカギを取りつけ、フレンズに貸し出すことだ。娑婆ではとてもできない事だが、ここでは誰も文句は言わない。","調査中にかかる費用はマンション内で拾ったものを売ったり、大家の真似事をして自力で稼ぐ必要がある。
-「大家の真似事」とは、探索の中で安全を確認した部屋にカギを取りつけ、フレンズに貸し出すことだ。娑婆ではとてもできない事だが、ここでは誰も文句は言わない。","","","",""
-"あとは情報集め。さっきのフレンズを尋ねて、色々話を聞いてみるのも良いだろう。マンションの住人だけでなく、趣味かなんかで探索をしている物好きが世界中から集まっている。","あとは情報集め。さっきのフレンズを尋ねて、色々話を聞いてみるのも良いだろう。マンションの住人だけでなく、趣味かなんかで探索をしている物好きが世界中から集まっている。","","","",""
+「大家の真似事」とは、探索の中で安全を確認した部屋にカギを取りつけ、フレンズに貸し出すことだ。娑婆ではとてもできない事だが、ここでは誰も文句は言わない。","Expenses incurred during the investigation must be earned independently, either by selling items found within the mansion or by acting as a landlord.
+""Acting as a landlord"" means installing locks on rooms whose safety has been confirmed during exploration and renting them out to Friends. While this is something you could never get away with in the real world, no one here will complain.","","",""
+"あとは情報集め。さっきのフレンズを尋ねて、色々話を聞いてみるのも良いだろう。マンションの住人だけでなく、趣味かなんかで探索をしている物好きが世界中から集まっている。","あとは情報集め。さっきのフレンズを尋ねて、色々話を聞いてみるのも良いだろう。マンションの住人だけでなく、趣味かなんかで探索をしている物好きが世界中から集まっている。","The next step is gathering information. It might be a good idea to visit that Friend from earlier and ask around. It’s not just the residents of the mansion; eccentric folks who are exploring as a hobby or something have gathered here from all over the world.","","",""
 "さて、仕事だ。
 端末はマンションの中でも電波は通じるようだ。
 もう一度、ブリーフィングの時にもらった資料を確認しておこう。","さて、仕事だ。
 端末はマンションの中でも電波は通じるようだ。
-もう一度、ブリーフィングの時にもらった資料を確認しておこう。","","","",""
+もう一度、ブリーフィングの時にもらった資料を確認しておこう。","Well, time to work.
+It seems the terminal can get a signal even inside the mansion.
+Let me double-check the materials I received during the briefing once more.","","",""
 "[color=green]●「墨塗りされた資料」を入手しました。[/color]
 [color=green]●「報告書作成基本方針」を入手しました。[/color]
 [color=green]●「探索マニュアル」を入手しました。[/color]
 [color=green]●左上のメニューが解放されました。Reportから様々な情報を確認できます。[/color]","[color=green]●「墨塗りされた資料」を入手しました。[/color]
 [color=green]●「報告書作成基本方針」を入手しました。[/color]
 [color=green]●「探索マニュアル」を入手しました。[/color]
-[color=green]●左上のメニューが解放されました。Reportから様々な情報を確認できます。[/color]","","","",""
-"探索のレクチャーも受けたが、ここでおさらいをしておくか？","探索のレクチャーも受けたが、ここでおさらいをしておくか？","","","",""
-"おさらいをする(チュートリアル開始)","おさらいをする(チュートリアル開始)","","","",""
-"調査開始","調査開始","","","",""
+[color=green]●左上のメニューが解放されました。Reportから様々な情報を確認できます。[/color]","[color=green]● You have obtained the ""Redacted Documents"".
+● You have obtained the ""Basic Guidelines for Report Writing"".
+● You have obtained the ""Exploration Manual"".
+● The top-left menu is now unlocked. You can view various information from the ""Report"" section.[/color]","","",""
+"探索のレクチャーも受けたが、ここでおさらいをしておくか？","探索のレクチャーも受けたが、ここでおさらいをしておくか？","You’ve already had a lecture on exploration, but do you want to review it here?","","",""
+"おさらいをする(チュートリアル開始)","おさらいをする(チュートリアル開始)","Review the Basics (Start Tutorial)","","",""
+"調査開始","調査開始","Start Investigation","","",""
 "[color=green]上記は探索画面の説明です。次に実際の探索の練習を行います。
 ルールは、画面上部のReport→探索マニュアルを確認してください。[/color]","[color=green]上記は探索画面の説明です。次に実際の探索の練習を行います。
-ルールは、画面上部のReport→探索マニュアルを確認してください。[/color]","","","",""
+ルールは、画面上部のReport→探索マニュアルを確認してください。[/color]","[color=green]The explanation of the exploration screen is complete. Next, you will practice an actual exploration.
+For the rules, please check Report → Exploration Manual at the top of the screen.[/color]","","",""
 "マンション探索者らしき宿泊客がちらほらいる。
 自分もその一人なのだが、連泊は許可されていない。","マンション探索者らしき宿泊客がちらほらいる。
-自分もその一人なのだが、連泊は許可されていない。","","","",""
-"ホテルに泊まる(空腹度回復)　￥2","ホテルに泊まる(空腹度回復)　￥2","","","",""
-"マンションに引き返す","マンションに引き返す","","","",""
-"[color=green]●一泊します。[/color]　{m_screen_msg}","[color=green]●一泊します。[/color]　{m_screen_msg}","","","",""
+自分もその一人なのだが、連泊は許可されていない。","There are a few guests who look like mansion explorers.
+I am one of them myself, but consecutive stays are not permitted.","","",""
+"ホテルに泊まる(空腹度回復)　￥2","ホテルに泊まる(空腹度回復)　￥2","Stay at the hotel (Restores hunger) ￥2","","",""
+"マンションに引き返す","マンションに引き返す","Go back to the mansion","","",""
+"[color=green]●一泊します。[/color]　{m_screen_msg}","[color=green]●一泊します。[/color]　{m_screen_msg}","[color=green]●We will stay for one night.[/color]　{m_screen_msg}","","",""
 "これまで探索者たちが撮影してきた、大量のマンション内画像を
 誰でも閲覧できるようになったらしい。","これまで探索者たちが撮影してきた、大量のマンション内画像を
-誰でも閲覧できるようになったらしい。","","","",""
+誰でも閲覧できるようになったらしい。","It seems that the massive amount of in-mansion images taken by explorers until now can now be viewed by anyone.","","",""
 "ただし、マンション内で撮った画像だから、
 当然マンション内でしかまともに表示されない。","ただし、マンション内で撮った画像だから、
-当然マンション内でしかまともに表示されない。","","","",""
+当然マンション内でしかまともに表示されない。","However, since the image was taken inside the mansion, it naturally won't display properly anywhere except inside the mansion.","","",""
 "ん？
 ということは、最近管理人室に置かれたうるさい機械は、
 画像が保管されているサーバーってことか？","ん？
 ということは、最近管理人室に置かれたうるさい機械は、
-画像が保管されているサーバーってことか？","","","",""
-"「おっさん、何持ってるのだ？」","「おっさん、何持ってるのだ？」","","","",""
+画像が保管されているサーバーってことか？","Hmm?
+So that means the noisy machine recently placed in the manager's office
+is the server where the images are stored?","","",""
+"「おっさん、何持ってるのだ？」","「おっさん、何持ってるのだ？」","""Hey old man, whatcha got there?""","","",""
 "アライさんだ。
 端末を覗き込むと、勝手に操作をはじめた。","アライさんだ。
-端末を覗き込むと、勝手に操作をはじめた。","","","",""
+端末を覗き込むと、勝手に操作をはじめた。","It's Arai-san.
+When she peered into the terminal, she started operating it on her own.","","",""
 "「いろんな写真があるのだ！マンションの中なのか？
 ここはアライさんたちの住んでる階の廊下なのだ！ここはハカセたちのいる階なのだ！
 あれ？なんなのだこの階は？」","「いろんな写真があるのだ！マンションの中なのか？
 ここはアライさんたちの住んでる階の廊下なのだ！ここはハカセたちのいる階なのだ！
-あれ？なんなのだこの階は？」","","","",""
+あれ？なんなのだこの階は？」","""Whoa, look at all these photos! Are these from inside the mansion?
+This one is the hallway on the floor where Arai-san and the others live! And this one is the floor where Doc and Gen-chan are!
+Huh? What on earth is this floor...?""","","",""
 "「アライさんはよく迷子になっていろんな階に行くけど、ここは見たことないのだ。
 四角い紙みたいなものを持ってるけど、これはいったい何なのだー！？」","「アライさんはよく迷子になっていろんな階に行くけど、ここは見たことないのだ。
-四角い紙みたいなものを持ってるけど、これはいったい何なのだー！？」","","","",""
-"[color=green]●「ギャラリー」が解禁されました。Reportから見れます。[/color]","[color=green]●「ギャラリー」が解禁されました。Reportから見れます。[/color]","","","",""
-"マンション探索をしていると、同じように探索をしている人間やフレンズと行き違う事がある。","マンション探索をしていると、同じように探索をしている人間やフレンズと行き違う事がある。","","","",""
+四角い紙みたいなものを持ってるけど、これはいったい何なのだー！？」","""Arai-san gets lost all the time and wanders onto all sorts of floors, but I've never seen this place before.
+You're holding a bunch of square pieces of paper, but what in the world are they nodesu!?""","","",""
+"[color=green]●「ギャラリー」が解禁されました。Reportから見れます。[/color]","[color=green]●「ギャラリー」が解禁されました。Reportから見れます。[/color]","Gallery unlocked. Accessible from the Report screen.","","",""
+"マンション探索をしていると、同じように探索をしている人間やフレンズと行き違う事がある。","マンション探索をしていると、同じように探索をしている人間やフレンズと行き違う事がある。","When wandering through the mansion, you may occasionally pass by other humans and Friends who are exploring just like you.","","",""
 "中でも気になったのは、ネズミを入れて紐を付けたペットボトルを持つオオカワウソだ。
 何に使うんだ？　と思っていたが、謎が解けた。","中でも気になったのは、ネズミを入れて紐を付けたペットボトルを持つオオカワウソだ。
-何に使うんだ？　と思っていたが、謎が解けた。","","","",""
+何に使うんだ？　と思っていたが、謎が解けた。","What caught my attention most was the Giant Otter holding a plastic bottle with a rat tied to a string inside. 
+I wondered what it was for, but now the mystery is solved.","","",""
 "不用意に進む前に、そのネズミボトルを前方に投げる事で、
 ある程度の怪異を前もって察知できるのだ。","不用意に進む前に、そのネズミボトルを前方に投げる事で、
-ある程度の怪異を前もって察知できるのだ。","","","",""
-"[color=green]●行動「ネズミボトル」が解禁されました。[/color]","[color=green]●行動「ネズミボトル」が解禁されました。[/color]","","","",""
-"オオカワウソのフレンズに声をかけられた。","オオカワウソのフレンズに声をかけられた。","","","",""
+ある程度の怪異を前もって察知できるのだ。","Before moving forward carelessly, you can detect certain anomalies in advance by throwing that rat bottle ahead.","","",""
+"[color=green]●行動「ネズミボトル」が解禁されました。[/color]","[color=green]●行動「ネズミボトル」が解禁されました。[/color]","[color=green]●Action ""Bottled Rat"" is now unlocked.[/color]","","",""
+"オオカワウソのフレンズに声をかけられた。","オオカワウソのフレンズに声をかけられた。","You were called out to by a Giant Otter Friend.","","",""
 "「ネズミボトルをマネしているオッサンってあんたか？
 別にマネしていることはなんとも思わないよ。どんな使い方をしているんだ？」","「ネズミボトルをマネしているオッサンってあんたか？
-別にマネしていることはなんとも思わないよ。どんな使い方をしているんだ？」","","","",""
-"自分もうまく使えているのか不安なところもあったので、情報交換をした。","自分もうまく使えているのか不安なところもあったので、情報交換をした。","","","",""
+別にマネしていることはなんとも思わないよ。どんな使い方をしているんだ？」","""Are you the old guy copying the Rat Bottle?
+I don't really care that you're copying it. But how exactly are you using it?""","","",""
+"自分もうまく使えているのか不安なところもあったので、情報交換をした。","自分もうまく使えているのか不安なところもあったので、情報交換をした。","I also felt a bit anxious about whether I was using it correctly, so we exchanged information.","","",""
 "「うーん、いまいち的を得ないな。口で説明するよりも実際にやるところを見せた方がいいかもしれない。
 機会があったら手伝ってやるよ。」","「うーん、いまいち的を得ないな。口で説明するよりも実際にやるところを見せた方がいいかもしれない。
-機会があったら手伝ってやるよ。」","","","",""
-"[color=green]●行動「オオカワウソ・ボトル」が解禁されました。[/color]","[color=green]●行動「オオカワウソ・ボトル」が解禁されました。[/color]","","","",""
-"キタキツネのフレンズが声をかけてきた。","キタキツネのフレンズが声をかけてきた。","","","",""
+機会があったら手伝ってやるよ。」","""Hmm, that doesn't quite hit the mark. It might be better to just show you how it's done rather than explaining it. I'll give you a hand if the opportunity comes up.""","","",""
+"[color=green]●行動「オオカワウソ・ボトル」が解禁されました。[/color]","[color=green]●行動「オオカワウソ・ボトル」が解禁されました。[/color]","[color=green]●Action ""Giant Otter: Bottle"" has been unlocked.[/color]","","",""
+"キタキツネのフレンズが声をかけてきた。","キタキツネのフレンズが声をかけてきた。","Ezo Red Fox greeted you.","","",""
 "「ギンギツネを探しているんだけど、知らない？
 どこへ行ったのかなあ・・・エントランスにいるような気がするんだけど」","「ギンギツネを探しているんだけど、知らない？
-どこへ行ったのかなあ・・・エントランスにいるような気がするんだけど」","","","",""
-"「キミに付いていけば、会えるかな？」","「キミに付いていけば、会えるかな？」","","","",""
+どこへ行ったのかなあ・・・エントランスにいるような気がするんだけど」","""I'm looking for Silver Fox, do you know where she is?
+Where could she have gone... I have a feeling she might be at the entrance.""","","",""
+"「キミに付いていけば、会えるかな？」","「キミに付いていけば、会えるかな？」","""If I follow you, do you think I'll be able to see them?""","","",""
 "[color=green]●行動「キタキツネ」が解禁されました。[/color]","[color=green]●行動「キタキツネ」が解禁されました。[/color]","","","",""
-"フェネックのフレンズが声をかけてきた。","フェネックのフレンズが声をかけてきた。","","","",""
-"「アライさん、ここにいたんだねー」","「アライさん、ここにいたんだねー」","","","",""
+"フェネックのフレンズが声をかけてきた。","フェネックのフレンズが声をかけてきた。","A Fennec Fox Friend called out to you.","","",""
+"「アライさん、ここにいたんだねー」","「アライさん、ここにいたんだねー」","""Arai-san, so this is where you were~""","","",""
 "自分ではなく、アライさんにだった。
 笑顔だが、明らかにこちらを警戒している。
 アライさんと何か喋ったあとこちらを向き、","自分ではなく、アライさんにだった。
 笑顔だが、明らかにこちらを警戒している。
-アライさんと何か喋ったあとこちらを向き、","","","",""
-"「わたしも協力するよー」","「わたしも協力するよー」","","","",""
-"監視されるんだろうなあと思いつつも、特にやましい事はないので、受け入れることにした。","監視されるんだろうなあと思いつつも、特にやましい事はないので、受け入れることにした。","","","",""
+アライさんと何か喋ったあとこちらを向き、","It wasn't for me, but for Arai-san.
+She is smiling, but clearly on guard against me.
+After speaking with Arai-san for a moment, she turns to face me, and—","","",""
+"「わたしも協力するよー」","「わたしも協力するよー」","""I'll help out too~""","","",""
+"監視されるんだろうなあと思いつつも、特にやましい事はないので、受け入れることにした。","監視されるんだろうなあと思いつつも、特にやましい事はないので、受け入れることにした。","I figured I'd be watched, but since I have nothing to hide, I decided to just accept it.","","",""
 "[color=green]●行動「フェネック」が解禁されました。[/color]","[color=green]●行動「フェネック」が解禁されました。[/color]","","","",""
-"「くふふ・・・」","「くふふ・・・」","","","",""
-"背後から、笑い声が聞こえた。","背後から、笑い声が聞こえた。","","","",""
+"「くふふ・・・」","「くふふ・・・」","""Kufufu...""","","",""
+"背後から、笑い声が聞こえた。","背後から、笑い声が聞こえた。","From behind, a laugh was heard.","","",""
 "[color=green]●行動「肉食ちゃん」が解禁されました。[/color]","[color=green]●行動「肉食ちゃん」が解禁されました。[/color]","","","",""
 "探索の中、自分のミスで、オオカワウソの一人がやられてしまった。
 生き残ったオオカワウソに声をかけられた。","探索の中、自分のミスで、オオカワウソの一人がやられてしまった。
-生き残ったオオカワウソに声をかけられた。","","","",""
-"「気を落とさないでほしい。わたしたちは、1人でも生き残っていれば問題ない」","「気を落とさないでほしい。わたしたちは、1人でも生き残っていれば問題ない」","","","",""
-"「ただひとつだけ、アイツの成果を持ち帰れなかった事だけが残念だ。これからは後悔の代わりに、犬死だけはさせない事を考えてくれ」","「ただひとつだけ、アイツの成果を持ち帰れなかった事だけが残念だ。これからは後悔の代わりに、犬死だけはさせない事を考えてくれ」","","","",""
+生き残ったオオカワウソに声をかけられた。","During the exploration, due to my own mistake, one of the Giant Otters was taken down.
+The surviving Giant Otter called out to me.","","",""
+"「気を落とさないでほしい。わたしたちは、1人でも生き残っていれば問題ない」","「気を落とさないでほしい。わたしたちは、1人でも生き残っていれば問題ない」","""Please don't be discouraged. As long as even one of us survives, it's not a problem.""","","",""
+"「ただひとつだけ、アイツの成果を持ち帰れなかった事だけが残念だ。これからは後悔の代わりに、犬死だけはさせない事を考えてくれ」","「ただひとつだけ、アイツの成果を持ち帰れなかった事だけが残念だ。これからは後悔の代わりに、犬死だけはさせない事を考えてくれ」","""The only regret is that we couldn't bring back its achievements. From now on, instead of regretting, just focus on making sure its death wasn't in vain.""","","",""
 "[color=green]●行動「オオカワウソ・捨身」が解禁されました。[/color]","[color=green]●行動「オオカワウソ・捨身」が解禁されました。[/color]","","","",""
 "外国人の探索者・・・
 ある界隈では、「ガチおじ」と呼ばれているらしい。
 複数人いることが確認されている。","外国人の探索者・・・
 ある界隈では、「ガチおじ」と呼ばれているらしい。
-複数人いることが確認されている。","","","",""
+複数人いることが確認されている。","An international explorer...
+In certain circles, he is apparently known as ""Gachi-Oji"" (the Hardcore Old Head).
+It has been confirmed that there are multiple individuals of his kind.","","",""
 "彼らは、探索そのものに魅入られているようだった。
 情報交換程度ならしたことがあり、何人か見知った顔もいる。
 見知っているということは、生存能力が高いという事だ。
 情報交換と言ったが、実際はこちらが情報をもらっているようなものだった。","彼らは、探索そのものに魅入られているようだった。
 情報交換程度ならしたことがあり、何人か見知った顔もいる。
 見知っているということは、生存能力が高いという事だ。
-情報交換と言ったが、実際はこちらが情報をもらっているようなものだった。","","","",""
+情報交換と言ったが、実際はこちらが情報をもらっているようなものだった。","They seemed fascinated by the exploration itself.
+I have exchanged information with them occasionally, and there are a few familiar faces among them.
+Knowing their faces meant one thing: they have high survival capabilities.
+I called it an information exchange, but in reality, it was more like I was the one receiving the data.","","",""
 "その彼らから、協力して探索する話を持ちかけられた。
 つまり、自分が認められたか、囮として有用かというところだろう。
 後者では無いことを願う。","その彼らから、協力して探索する話を持ちかけられた。
 つまり、自分が認められたか、囮として有用かというところだろう。
-後者では無いことを願う。","","","",""
+後者では無いことを願う。","They approached me with an offer to explore together.
+In other words, I've either earned their respect, or I'm just useful as bait.
+I hope it's not the latter.","","",""
 "[color=green]●行動「ガチおじ」が解禁されました。[/color]","[color=green]●行動「ガチおじ」が解禁されました。[/color]","","","",""
-"『異質オオカワウソ』","『異質オオカワウソ』","","","",""
-"花の咲いたバールを持ち、エレベーターパネル部分のような機械を背負った、怪異と化した赤い眼のオオカワウソ。","花の咲いたバールを持ち、エレベーターパネル部分のような機械を背負った、怪異と化した赤い眼のオオカワウソ。","","","",""
-"オオカワウソチームの天敵であり、一緒に行動している自分も敵とみなされている。","オオカワウソチームの天敵であり、一緒に行動している自分も敵とみなされている。","","","",""
+"『異質オオカワウソ』","『異質オオカワウソ』","""Giant Otter: Anomaly""","『巨獭：异质』","""자이언트수달: 이질""","""Гигантская выдра: Аномалия"""
+"花の咲いたバールを持ち、エレベーターパネル部分のような機械を背負った、怪異と化した赤い眼のオオカワウソ。","花の咲いたバールを持ち、エレベーターパネル部分のような機械を背負った、怪異と化した赤い眼のオオカワウソ。","A red-eyed Giant Otter turned into an anomaly, holding a crowbar in bloom and carrying a machine resembling an elevator control panel on its back.","","",""
+"オオカワウソチームの天敵であり、一緒に行動している自分も敵とみなされている。","オオカワウソチームの天敵であり、一緒に行動している自分も敵とみなされている。","The natural enemy of the Giant Otter team, which means you, traveling alongside them, are also targeted as an enemy.","","",""
 "オオカワウソチームと対策を話し合ったところ、
 「あるにはあるが・・・」と渋い顔をしながら話してくれた。","オオカワウソチームと対策を話し合ったところ、
-「あるにはあるが・・・」と渋い顔をしながら話してくれた。","","","",""
+「あるにはあるが・・・」と渋い顔をしながら話してくれた。","After discussing a strategy with the Giant Otter team, they gave a grim look and said, ""Well, there is a way... but...""","","",""
 "[color=green]●行動「オオカワウソ軍団」が解禁されました。[/color]","[color=green]●行動「オオカワウソ軍団」が解禁されました。[/color]","","","",""
-"何度も撤退しているうちに、撤退のコツがつかめてきた。","何度も撤退しているうちに、撤退のコツがつかめてきた。","","","",""
-"観察力が鍛えられ、ある程度予測ができるようになってきた。","観察力が鍛えられ、ある程度予測ができるようになってきた。","","","",""
+"何度も撤退しているうちに、撤退のコツがつかめてきた。","何度も撤退しているうちに、撤退のコツがつかめてきた。","Through retreating time and time again, I've finally started to get the hang of it.","","",""
+"観察力が鍛えられ、ある程度予測ができるようになってきた。","観察力が鍛えられ、ある程度予測ができるようになってきた。","My observation skills have sharpened, and I can now predict to some extent.","","",""
 "エレベーターの中から目視で階の様子を伺うだけでは限界がある。
 ふと思いついた事があり、ダメ元で、財団に申請をしてみた。
 実績を認められ、許可がおりた。","エレベーターの中から目視で階の様子を伺うだけでは限界がある。
 ふと思いついた事があり、ダメ元で、財団に申請をしてみた。
-実績を認められ、許可がおりた。","","","",""
-"探索がある程度進んだところで、気持ちに余裕が出てきたのか、マーケットでの会話が耳に入ってきた。","探索がある程度進んだところで、気持ちに余裕が出てきたのか、マーケットでの会話が耳に入ってきた。","","","",""
+実績を認められ、許可がおりた。","Just peering out from inside the elevator to check the floors has its limits.
+An idea suddenly crossed my mind, and thinking I had nothing to lose, I submitted a request for an item from the Foundation.
+My track record was recognized, and the permission was granted.","","",""
+"探索がある程度進んだところで、気持ちに余裕が出てきたのか、マーケットでの会話が耳に入ってきた。","探索がある程度進んだところで、気持ちに余裕が出てきたのか、マーケットでの会話が耳に入ってきた。","As our exploration progressed to a certain point, perhaps because I finally felt a bit more at ease, a conversation from the market happened to catch my ear.","","",""
 "値切っていた。しかも成功している。
 ここならではのコツがあるみたいだ。","値切っていた。しかも成功している。
-ここならではのコツがあるみたいだ。","","","",""
+ここならではのコツがあるみたいだ。","They were haggling. And what's more, they succeeded.
+It seems there is a specific knack to doing it around here.","","",""
 "財団からのメールを着信した。
 実績が認められ、外泊許可がおりたとの事。
 いくつかの条件はあるが、まともに休めるのは嬉しい。","財団からのメールを着信した。
 実績が認められ、外泊許可がおりたとの事。
-いくつかの条件はあるが、まともに休めるのは嬉しい。","","","",""
+いくつかの条件はあるが、まともに休めるのは嬉しい。","I received an email from the Foundation.
+They recognized my achievements and granted me an overnight stay pass.
+There are a few conditions, but I'm just glad to get some proper rest.","","",""
 "何度も値切っているうちに、駆け引きを楽しめるようになってきた。
 危険な探索生活の中の娯楽みたいなところがある。
 いや、もしかしたらこれは、買い物以外でも使える時があるかもしれない。","何度も値切っているうちに、駆け引きを楽しめるようになってきた。
 危険な探索生活の中の娯楽みたいなところがある。
-いや、もしかしたらこれは、買い物以外でも使える時があるかもしれない。","","","",""
-"探索のための手段や道具は揃えているが、それらを使いたい時に使えず、逆に不要な時に使わざるを得なかったりと、いきあたりばったりの行動になってしまうのをなんとかしたい。事前にしっかり計画を立てる事が必要だ。","探索のための手段や道具は揃えているが、それらを使いたい時に使えず、逆に不要な時に使わざるを得なかったりと、いきあたりばったりの行動になってしまうのをなんとかしたい。事前にしっかり計画を立てる事が必要だ。","","","",""
+いや、もしかしたらこれは、買い物以外でも使える時があるかもしれない。","As I kept haggling over and over, I started to actually enjoy the bargaining.
+It’s almost like a form of entertainment in this dangerous life of exploration.
+No, wait... maybe I can use this skill for things other than just shopping.","","",""
+"探索のための手段や道具は揃えているが、それらを使いたい時に使えず、逆に不要な時に使わざるを得なかったりと、いきあたりばったりの行動になってしまうのをなんとかしたい。事前にしっかり計画を立てる事が必要だ。","探索のための手段や道具は揃えているが、それらを使いたい時に使えず、逆に不要な時に使わざるを得なかったりと、いきあたりばったりの行動になってしまうのをなんとかしたい。事前にしっかり計画を立てる事が必要だ。","While we have the means and tools for exploration, we can't use them when we want to, and conversely, we're forced to use them when they aren't needed, leading to haphazard actions that we need to fix. It is essential to make a solid plan in advance.","","",""
 "財団から特例として貸与された端末。
 これ自体はただの携帯電話だが、このマンションとは全く別種の収容されたオブジェクトにアクセスするものらしく、登録された番号にかけ、行きたい場所を伝えると瞬間移動できるという。","財団から特例として貸与された端末。
-これ自体はただの携帯電話だが、このマンションとは全く別種の収容されたオブジェクトにアクセスするものらしく、登録された番号にかけ、行きたい場所を伝えると瞬間移動できるという。","","","",""
+これ自体はただの携帯電話だが、このマンションとは全く別種の収容されたオブジェクトにアクセスするものらしく、登録された番号にかけ、行きたい場所を伝えると瞬間移動できるという。","A terminal temporarily loaned by the Foundation as a special exception.
+While the device itself is just an ordinary mobile phone, it apparently grants access to a contained object of an entirely different nature than this mansion. By dialing a registered number and stating your destination, you can instantly teleport there.","","",""
 "ただし、必ずエレベーターに戻る用途のみに使えと。
 理由はレポートを参照とのこと。
 まあ、守った方が良いのだろうな。","ただし、必ずエレベーターに戻る用途のみに使えと。
 理由はレポートを参照とのこと。
-まあ、守った方が良いのだろうな。","","","",""
-"オオカワウソが話しかけてきた。","オオカワウソが話しかけてきた。","","","",""
-"「お前、最近よく見るな。[outline_size=8][outline_color=red]Г-11-18-③階[/outline_color][/outline_size]に来い。色々教えてやる」","「お前、最近よく見るな。[outline_size=8][outline_color=red]Г-11-18-③階[/outline_color][/outline_size]に来い。色々教えてやる」","","","",""
+まあ、守った方が良いのだろうな。","However, it must be used exclusively for returning to the elevator.
+For the reason, refer to the report.
+Well, it's probably best to follow that rule.","","",""
+"オオカワウソが話しかけてきた。","オオカワウソが話しかけてきた。","The Giant Otter spoke to you.","","",""
+"「お前、最近よく見るな。[outline_size=8][outline_color=red]Г-11-18-③階[/outline_color][/outline_size]に来い。色々教えてやる」","「お前、最近よく見るな。[outline_size=8][outline_color=red]Г-11-18-③階[/outline_color][/outline_size]に来い。色々教えてやる」","""You've been showing up around here a lot lately. Come to [outline_size=8][outline_color=red]Floor Г-11-18-③[/outline_color][/outline_size]. I'll teach you a thing or two.""","","",""
 "マーケットで物色していると、
 [outline_size=8][outline_color=red]И-17-6-１階[/outline_color][/outline_size]に行けば食料を安く調達してしまうという噂が聞こえてきた。","マーケットで物色していると、
-[outline_size=8][outline_color=red]И-17-6-１階[/outline_color][/outline_size]に行けば食料を安く調達してしまうという噂が聞こえてきた。","","","",""
-"「してしまう」という言い方がとても気になる・・・","「してしまう」という言い方がとても気になる・・・","","","",""
+[outline_size=8][outline_color=red]И-17-6-１階[/outline_color][/outline_size]に行けば食料を安く調達してしまうという噂が聞こえてきた。","While browsing the market, a rumor caught my ear: 
+if you go to the [outline_size=8][outline_color=red]И-17-6-1st Floor[/outline_color][/outline_size], you end up procuring food for cheap.","","",""
+"「してしまう」という言い方がとても気になる・・・","「してしまう」という言い方がとても気になる・・・","The phrasing ""end up procuring"" really bugs me...","","",""
 "拠点。待機や、他のメンバーとの交代ができる。
 待機・交代には食料1が必要。","拠点。待機や、他のメンバーとの交代ができる。
-待機・交代には食料1が必要。","","","",""
-"検討中","検討中","","","",""
-"{ai_txt}","{ai_txt}","{ai_txt}","{ai_txt}","{ai_txt}",""
-"[color=green]●移動しています....[/color]","[color=green]●移動しています....[/color]","","","",""
-"ドローン撮影する(精神-1、開示5)","ドローン撮影する(精神-1、開示5)","","","",""
-"探索する","探索する","","","",""
-"エントランスへ引き返す","エントランスへ引き返す","","","",""
-"[color=green]●ドローン撮影を行いました。[/color]精神-1","[color=green]●ドローン撮影を行いました。[/color]精神-1","","","",""
+待機・交代には食料1が必要。","Base. You can wait here or switch between other members.
+Waiting or switching requires 1 Food.","","",""
+"検討中","検討中","Under Consideration","","",""
+"{ai_txt}","{ai_txt}","{ai_txt}","{ai_txt}","{ai_txt}","{ai_txt}"
+"[color=green]●移動しています....[/color]","[color=green]●移動しています....[/color]","[color=green]●Moving....[/color]","","",""
+"ドローン撮影する(精神-1、開示5)","ドローン撮影する(精神-1、開示5)","Use a drone for aerial filming (SP-1, Reveals5)","","",""
+"探索する","探索する","Explore","","",""
+"エントランスへ引き返す","エントランスへ引き返す","Head back to the entrance","","",""
+"[color=green]●ドローン撮影を行いました。[/color]精神-1","[color=green]●ドローン撮影を行いました。[/color]精神-1","[color=green]●Drone filming was conducted.[/color] SP-1","","",""
 "撮影された動画を確認した。
 白く光るモノリスが浮かんでいる。それ以外には何もない。
 ふと、気持ちが異様に軽くなった。違和感を覚え、時計を見ると、
 既に2時間ほど経過していた。映像の確認は数分しかしていないはずだ。","撮影された動画を確認した。
 白く光るモノリスが浮かんでいる。それ以外には何もない。
 ふと、気持ちが異様に軽くなった。違和感を覚え、時計を見ると、
-既に2時間ほど経過していた。映像の確認は数分しかしていないはずだ。","","","",""
+既に2時間ほど経過していた。映像の確認は数分しかしていないはずだ。","I reviewed the recorded video.
+A glowing white monolith is floating there. Nothing else.
+Suddenly, my mind felt strangely light. Sensing something was wrong, I checked my watch.
+Already, about two hours had passed. I should have only been checking the footage for a few minutes.","","",""
 "何が起きたのかはよくわからないが、
 この動画を探索中に見るのは危険そうだ。
 だが、「見せる」のは・・・？","何が起きたのかはよくわからないが、
 この動画を探索中に見るのは危険そうだ。
-だが、「見せる」のは・・・？","","","",""
+だが、「見せる」のは・・・？","I don't really know what just happened, 
+but watching this video during exploration seems dangerous. 
+But... what if I ""show"" it to someone else?","","",""
 "[color=green]●行動「動画：どんな願いも叶う階」が解禁されました。[/color]","[color=green]●行動「動画：どんな願いも叶う階」が解禁されました。[/color]","","","",""
 "[color=green]●ドローン撮影を行いましたが、特に何も収穫はありませんでした。[/color]精神-1","[color=green]●ドローン撮影を行いましたが、特に何も収穫はありませんでした。[/color]精神-1","","","",""
 "■248日前","■248日前","■248 days ago","■248天前","■248일 전",""
-"俺は取り返しのつかない過ちを犯した。","俺は取り返しのつかない過ちを犯した。","","","",""
-"いつ「声」がかかるか・・・それを考えては忘れ、","いつ「声」がかかるか・・・それを考えては忘れ、","","","",""
-"そしてまた考え・・・","そしてまた考え・・・","","","",""
+"俺は取り返しのつかない過ちを犯した。","俺は取り返しのつかない過ちを犯した。","I made an irreversible mistake.","","",""
+"いつ「声」がかかるか・・・それを考えては忘れ、","いつ「声」がかかるか・・・それを考えては忘れ、","Thinking about when they will call my name... then forgetting it,","","",""
+"そしてまた考え・・・","そしてまた考え・・・","and then thinking about it again...","","",""
 "■31日前","■31日前","■31 days ago","■31天前","■31일 전",""
 "鉄格子の向こう側に響く足音が、いつにも増して重々しく聞こえた。
 呼び出しの声がかかり、看守たちの視線が突き刺さる。
 分かっている。この瞬間がいつか来ることは理解していた。だが、いざとなると心はざわつく。","鉄格子の向こう側に響く足音が、いつにも増して重々しく聞こえた。
 呼び出しの声がかかり、看守たちの視線が突き刺さる。
-分かっている。この瞬間がいつか来ることは理解していた。だが、いざとなると心はざわつく。","","","",""
+分かっている。この瞬間がいつか来ることは理解していた。だが、いざとなると心はざわつく。","The footsteps echoing on the other side of the iron bars sounded heavier than usual.
+My name was called, and the guards' piercing glares locked onto me.
+I knew. I understood that this moment would come someday. But now that it was here, my heart began to race.","","",""
 "ところが、連れてこられた扉の向こう側には、久々の外の景色が広がっていた。
 刑務所の空気とは違う、冷たい静けさ。
 俺は車に乗せられ、どこかへと運ばれる。
 手錠の感触は変わらないのに、景色が違うだけで奇妙な錯覚を覚えた。","ところが、連れてこられた扉の向こう側には、久々の外の景色が広がっていた。
 刑務所の空気とは違う、冷たい静けさ。
 俺は車に乗せられ、どこかへと運ばれる。
-手錠の感触は変わらないのに、景色が違うだけで奇妙な錯覚を覚えた。","","","",""
+手錠の感触は変わらないのに、景色が違うだけで奇妙な錯覚を覚えた。","Yet, beyond the door I was led to, the long-unseen outside scenery stretched out before me.
+A cold stillness, completely different from the air inside the prison.
+I was put into a vehicle and driven away to somewhere unknown.
+Though the cold touch of the handcuffs remained the same, the sheer change in scenery gave me a strange illusion.","","",""
 "■29日前","■29日前","■29 days ago","■29天前","■29일 전",""
 "「座ってくれ」
 男の声に促され、用意された椅子に腰を下ろす。目の前には机、そして紙と鉛筆。
 知能テスト――そんな単語が脳裏をよぎる。ここに来て試験とは、どういうことだ。","「座ってくれ」
 男の声に促され、用意された椅子に腰を下ろす。目の前には机、そして紙と鉛筆。
-知能テスト――そんな単語が脳裏をよぎる。ここに来て試験とは、どういうことだ。","","","",""
+知能テスト――そんな単語が脳裏をよぎる。ここに来て試験とは、どういうことだ。","""Take a seat.""
+Prompted by the man's voice, I sit down in the provided chair. In front of me are a desk, some paper, and a pencil.
+An intelligence test—the phrase crosses my mind. What is the meaning of an exam at a time like this?","","",""
 "問題は単純なものから始まり、次第に複雑さを増していく。
 数列の推測、図形の分析、記憶力の測定――そして最後には道徳的選択を問うもの。
 俺は黙々とそれに答えていった。
 何を試されているのかは分からない。だが、これが意味のあるものなら、俺の運命はまだ終わっていないのかもしれない。","問題は単純なものから始まり、次第に複雑さを増していく。
 数列の推測、図形の分析、記憶力の測定――そして最後には道徳的選択を問うもの。
 俺は黙々とそれに答えていった。
-何を試されているのかは分からない。だが、これが意味のあるものなら、俺の運命はまだ終わっていないのかもしれない。","","","",""
+何を試されているのかは分からない。だが、これが意味のあるものなら、俺の運命はまだ終わっていないのかもしれない。","The problems start simple, but gradually grow more complex.
+Sequence prediction, pattern analysis, memory tests—and finally, questions of moral choice.
+I answered them one by one in silence.
+I don't know what I'm being tested for. But if this means anything, it might mean my fate isn't sealed just yet.","","",""
 "「合格だ」
 男が短くそう言った。俺はただ、眉をひそめる。合格？ それが何を意味するのか。
 男は「財団」を名乗った。","「合格だ」
 男が短くそう言った。俺はただ、眉をひそめる。合格？ それが何を意味するのか。
-男は「財団」を名乗った。","","","",""
+男は「財団」を名乗った。","""You've passed.""
+The man said briefly. I could only furrow my brows. Passed? What on earth did that mean?
+The man claimed to be from the ""Foundation.""","","",""
 "とある「マンション」の調査をしてほしいとのことだった。
 そのマンションが、世界に影響を及ぼす可能性を探り、問題があれば対処方法を見つけること。
 報酬は「人生をやり直せる権利」。
 ジョークのために、確定死刑囚を連れ出したりはしないだろう。","とある「マンション」の調査をしてほしいとのことだった。
 そのマンションが、世界に影響を及ぼす可能性を探り、問題があれば対処方法を見つけること。
 報酬は「人生をやり直せる権利」。
-ジョークのために、確定死刑囚を連れ出したりはしないだろう。","","","",""
+ジョークのために、確定死刑囚を連れ出したりはしないだろう。","I was told to investigate a certain ""mansion.""
+My task was to explore whether that mansion had the potential to influence the world, and if there were any issues, to find a way to deal with them.
+The reward was ""the right to start my life over.""
+They wouldn't drag a death-row inmate out just for a joke.","","",""
 "命の保障は一切ない。もしかしたら、極刑よりも悲惨な最期を迎えるかもしれない。
 選択肢は一つしかなかった。","命の保障は一切ない。もしかしたら、極刑よりも悲惨な最期を迎えるかもしれない。
-選択肢は一つしかなかった。","","","",""
-"契約する","契約する","","","",""
-"牢獄に戻る","牢獄に戻る","","","",""
+選択肢は一つしかなかった。","There is absolutely no guarantee of survival. I might end up meeting a fate far more miserable than capital punishment.
+But I had only one choice.","","",""
+"契約する","契約する","Contract","","",""
+"牢獄に戻る","牢獄に戻る(ゲーム終了)","Return to the cells (Game Over)","","",""
 "気になっていた事を聞いてみた。
 「ひとついいか。さっきのテスト、不合格だったら？」
 財団の男は答えた。
@@ -455,114 +601,140 @@ Image movement + fade in + bobbing"
 「ひとついいか。さっきのテスト、不合格だったら？」
 財団の男は答えた。
 「別の『適した』仕事を紹介するだけさ。君はクラスこそ同じだが、自己判断が許される点で救いがある」
-その言葉の意味を、この後実感する事になった。","","","",""
-"[color=green]探索が終了しました。[/color]","[color=green]探索が終了しました。[/color]","","","",""
+その言葉の意味を、この後実感する事になった。","I asked about something that had been weighing on my mind.
+""Can I ask you one thing? What if I had failed that test earlier?""
+The Foundation man replied.
+""We would have simply introduced you to another 'suitable' job. You may share the same class, but you're fortunate in that you're still allowed personal discretion.""
+It didn't take long for the true meaning of those words to sink in.","","",""
+"[color=green]探索が終了しました。[/color]","[color=green]探索が終了しました。[/color]","[color=green]Exploration completed.[/color]","","",""
 "探索対象(上段の5枚)
 から1枚、
 探索者の行動(下段の5枚)
 から1枚を選択してください。","探索対象(上段の5枚)
 から1枚、
 探索者の行動(下段の5枚)
-から1枚を選択してください。","","","",""
+から1枚を選択してください。","Choose one card from the targets (top 5 cards), and one from the explorer's actions (bottom 5 cards).","","",""
 "マンション近くにある公共の集会所。マンション攻略の手段や情報を扱っている他、食料の調達もできる。
 ラインナップは日替わり。","マンション近くにある公共の集会所。マンション攻略の手段や情報を扱っている他、食料の調達もできる。
-ラインナップは日替わり。","","","",""
-"買い物中","買い物中","","","",""
+ラインナップは日替わり。","A public community center near the mansion. It provides methods and information for conquering the mansion, and food can also be procured here.
+The lineup changes daily.","","",""
+"買い物中","買い物中","Shopping","","",""
 "最初から","最初から","New Game","新游戏","처음부터",""
 "終了する","終了する","Exit","退出游戏","게임 종료",""
 "Credit","Credit","Credits","鸣谢","크레딧",""
 "[color=green]●セーブデータが存在します。
 　このまま最初からゲームをはじめると、今のセーブデータが上書きされる事になりますが、よろしいですか？[/color]","[color=green]●セーブデータが存在します。
-　このまま最初からゲームをはじめると、今のセーブデータが上書きされる事になりますが、よろしいですか？[/color]","","","",""
+　このまま最初からゲームをはじめると、今のセーブデータが上書きされる事になりますが、よろしいですか？[/color]","[color=green]●A save file already exists.
+Starting a new game will overwrite your current save data. Do you wish to proceed?[/color]","","",""
 "はい","はい","Yes","","",""
 "いいえ","いいえ","No","","",""
-"まず、エレベーターの扉を開く前にここに来た意図を確認しておく。","まず、エレベーターの扉を開く前にここに来た意図を確認しておく。","","","",""
+"まず、エレベーターの扉を開く前にここに来た意図を確認しておく。","まず、エレベーターの扉を開く前にここに来た意図を確認しておく。","First, before opening the elevator doors, let's clarify your intention for coming here.","","",""
 "この階には何の成果もない事は分かっている。財団としても調査済み扱いだ。
 ただ、一度は見ておけと、いろんな人から言われていた。興味本位で訪れた者の大半の失踪原因が、この階にあるというのだ。","この階には何の成果もない事は分かっている。財団としても調査済み扱いだ。
-ただ、一度は見ておけと、いろんな人から言われていた。興味本位で訪れた者の大半の失踪原因が、この階にあるというのだ。","","","",""
+ただ、一度は見ておけと、いろんな人から言われていた。興味本位で訪れた者の大半の失踪原因が、この階にあるというのだ。","I know there are no findings to be made on this floor. The Foundation has already marked it as fully investigated.
+However, I was told by various people that I should see it at least once. They say that the cause behind the disappearance of most who visit out of curiosity lies on this very floor.","","",""
 "「1」階。
 何も知らない者が逃げ帰ろうとして、必死でボタンを押す階だ。","「1」階。
-何も知らない者が逃げ帰ろうとして、必死でボタンを押す階だ。","","","",""
-"エレベーターの扉を開け、その理由を理解した。","エレベーターの扉を開け、その理由を理解した。","","","",""
+何も知らない者が逃げ帰ろうとして、必死でボタンを押す階だ。","""1 Floor.""
+The floor where those who know nothing desperately press the button, trying to escape back home.","","",""
+"エレベーターの扉を開け、その理由を理解した。","エレベーターの扉を開け、その理由を理解した。","Opening the elevator doors, I understood the reason why.","","",""
 "エレベーターのドアを閉めた。
 「この階層で多数の失踪者」「本来のエントランス階と全く同じ光景」
 ここから状況は理解した。詳細は既に調査済らしいので、あとでレポートを確認してみるか・・・","エレベーターのドアを閉めた。
 「この階層で多数の失踪者」「本来のエントランス階と全く同じ光景」
-ここから状況は理解した。詳細は既に調査済らしいので、あとでレポートを確認してみるか・・・","","","",""
+ここから状況は理解した。詳細は既に調査済らしいので、あとでレポートを確認してみるか・・・","I closed the elevator doors.
+""Numerous missing persons on this floor"" ""The exact same sight as the original entrance floor""
+From this, I understood the situation. It seems the details have already been investigated, so maybe I'll check the report later...","","",""
 "絶対にマンションの外に出るなと言われている。
 外の様子を慎重に伺う。人が全くいない事以外は、本物と変わらない。人がいない事すら、気を抜けば、たまたま今はいないのかなと思うくらい、空気感も本物の世界と変わらない。","絶対にマンションの外に出るなと言われている。
-外の様子を慎重に伺う。人が全くいない事以外は、本物と変わらない。人がいない事すら、気を抜けば、たまたま今はいないのかなと思うくらい、空気感も本物の世界と変わらない。","","","",""
+外の様子を慎重に伺う。人が全くいない事以外は、本物と変わらない。人がいない事すら、気を抜けば、たまたま今はいないのかなと思うくらい、空気感も本物の世界と変わらない。","I’ve been told absolutely never to go outside the mansion.
+I carefully check the outside conditions. Aside from the fact that there is absolutely no one around, it’s identical to the real world. Even the absence of people feels so natural that if I let my guard down, I might just think, ""Maybe there's just no one around right now""—the atmosphere is indistinguishable from the real world.","","",""
 "管理人室に来てみた。
 いつもは誰かいるが、もちろんここには誰もいない。
 …限界だ。これ以上ここには留まりたくない。","管理人室に来てみた。
 いつもは誰かいるが、もちろんここには誰もいない。
-…限界だ。これ以上ここには留まりたくない。","","","",""
+…限界だ。これ以上ここには留まりたくない。","I decided to visit the manager's office.
+Usually, someone is here, but of course, there is no one here now.
+...I've hit my limit. I don't want to stay here any longer.","","",""
 "既に探索は完了し、財団による収容作業が進められている。
 ","既に探索は完了し、財団による収容作業が進められている。
-","","","",""
+","The exploration is already complete, and containment operations by the Foundation are currently underway.","","",""
 "定石通り、まずはエレベーター内から外の様子を探る。
 暗闇を貫く百メートル先の光の中に、何かがあるのをみとめた。
 岩の質感が光を跳ね返し、ここが洞窟であることを物語っている。 
 全体が地下水に濡れ、湿気が立ち込めていたが、どこか清浄な雰囲気だ。","定石通り、まずはエレベーター内から外の様子を探る。
 暗闇を貫く百メートル先の光の中に、何かがあるのをみとめた。
 岩の質感が光を跳ね返し、ここが洞窟であることを物語っている。 
-全体が地下水に濡れ、湿気が立ち込めていたが、どこか清浄な雰囲気だ。","","","",""
+全体が地下水に濡れ、湿気が立ち込めていたが、どこか清浄な雰囲気だ。","As per standard procedure, you first scan the surroundings outside from within the elevator. In the light one hundred meters away, piercing through the darkness, you spot something. The texture of the rock reflects the light, revealing that this place is a cave. The entire area is drenched in groundwater, and the air is thick with humidity, yet it somehow carries a pure, serene atmosphere.","","",""
 "エレベーターのすぐ外、三メートルほどの地面に、周囲の岩肌とは明らかに質の違う反射を見つけた。
 目を凝らして正体を確かめる。……それは、ペットボトルのようだった。","エレベーターのすぐ外、三メートルほどの地面に、周囲の岩肌とは明らかに質の違う反射を見つけた。
-目を凝らして正体を確かめる。……それは、ペットボトルのようだった。","","","",""
-"進む","進む","","","",""
-"引き返す","引き返す","","","",""
+目を凝らして正体を確かめる。……それは、ペットボトルのようだった。","Just outside the elevator, about three meters away on the ground, I noticed a reflection that was clearly different from the surrounding rock surface.
+I strained my eyes to see what it was. ...It looked like a plastic bottle.","","",""
+"進む","進む","Go forward","","",""
+"引き返す","引き返す","Turn back","","",""
 "一歩踏み出し、まずはペットボトルを確認した。
 容器が白く濁っていて中身が確認できないが、真ん中を切り離した後にテープで再度くっつけている。
 これは・・・ネズミボトルだ。それも激しく劣化している。","一歩踏み出し、まずはペットボトルを確認した。
 容器が白く濁っていて中身が確認できないが、真ん中を切り離した後にテープで再度くっつけている。
-これは・・・ネズミボトルだ。それも激しく劣化している。","","","",""
+これは・・・ネズミボトルだ。それも激しく劣化している。","Taking a step forward, I first checked the plastic bottle.
+The container is cloudy white, making it impossible to see the contents, but it has been cut around the middle and taped back together.
+This is... a ""Bottled Rat"". And it has severely deteriorated.","","",""
 "「ネズミボトルが使われたまま置き去りになっている」という事実の深刻さに気づき、
 すぐに引き返そうとしたが、もう遅かった。
 既に足腰が立たず、体のあちこちが痛い。歯がほとんど抜けて口の中で舌にまとわりついている。
 やがて目も見えなくなり、全ての感覚がなくなっていった。","「ネズミボトルが使われたまま置き去りになっている」という事実の深刻さに気づき、
 すぐに引き返そうとしたが、もう遅かった。
 既に足腰が立たず、体のあちこちが痛い。歯がほとんど抜けて口の中で舌にまとわりついている。
-やがて目も見えなくなり、全ての感覚がなくなっていった。","","","",""
+やがて目も見えなくなり、全ての感覚がなくなっていった。","Realizing the sheer gravity of the fact that a ""Bottled Rat"" had been used and left behind, I tried to turn back immediately, but it was already too late.
+My legs had already given out, and every part of my body was in agony. Most of my teeth had fallen out, tangling around my tongue inside my mouth.
+Before long, my vision faded to black, and all of my senses slipped away.","","",""
 "探索を開始した。
 落ちていたペットボトルは、容器は白く濁っていて中身も無いが、ネズミボトルだ。
 通常ネズミボトルは紐を結んでおき、
 たぐり寄せて回収できるようになっているはずが、その紐もない。","探索を開始した。
 落ちていたペットボトルは、容器は白く濁っていて中身も無いが、ネズミボトルだ。
 通常ネズミボトルは紐を結んでおき、
-たぐり寄せて回収できるようになっているはずが、その紐もない。","","","",""
+たぐり寄せて回収できるようになっているはずが、その紐もない。","The exploration has begun.
+The plastic bottle that was lying around is a Bottled Rat, even though the container is cloudy white and empty.
+Normally, a Bottled Rat should have a string tied to it so it can be pulled back and recovered, but that string is missing as well.","","",""
 "この階はおそらく、ものすごい速さで時間が流れている。
 だから紐も中のネズミも投げ入れられた瞬間に朽ちて無くなり、
 分解されにくい容器だけが残されたのだ。","この階はおそらく、ものすごい速さで時間が流れている。
 だから紐も中のネズミも投げ入れられた瞬間に朽ちて無くなり、
-分解されにくい容器だけが残されたのだ。","","","",""
-"何故自分が無事なのか。時間の流れを遅くする、このサンドスターレプリカのおかげだろう。","何故自分が無事なのか。時間の流れを遅くする、このサンドスターレプリカのおかげだろう。","","","",""
-"更に奥へと進んでみよう。","更に奥へと進んでみよう。","","","",""
-"エレベーターからも確認できていた光の元に到着した。","エレベーターからも確認できていた光の元に到着した。","","","",""
+分解されにくい容器だけが残されたのだ。","This floor is likely operating at an incredibly accelerated rate of time. That is why the string and the rat inside decayed and vanished the exact moment they were thrown in, leaving behind only the bottle, which resists decomposition.","","",""
+"何故自分が無事なのか。時間の流れを遅くする、このサンドスターレプリカのおかげだろう。","何故自分が無事なのか。時間の流れを遅くする、このサンドスターレプリカのおかげだろう。","Why am I safe? It must be thanks to this Sandstar Replica, which slows down the flow of time.","","",""
+"更に奥へと進んでみよう。","更に奥へと進んでみよう。","Let's venture even deeper inside.","","",""
+"エレベーターからも確認できていた光の元に到着した。","エレベーターからも確認できていた光の元に到着した。","We arrived at the light source that had been visible from inside the elevator.","","",""
 "光を発しているそれは、飴玉のような透明の球体で、
 上下に溶けた飴が回転しながら流れ出ているように見える。
 球体の中に、マンションの外観が映っている。","光を発しているそれは、飴玉のような透明の球体で、
 上下に溶けた飴が回転しながら流れ出ているように見える。
-球体の中に、マンションの外観が映っている。","","","",""
-"球体に触れる","球体に触れる","","","",""
-"頭の中に、何かのイメージが流れ込んできた。","頭の中に、何かのイメージが流れ込んできた。","","","",""
-"球体から手を離す","球体から手を離す","","","",""
-"・・・・・・・・・・・。","・・・・・・・・・・・。","","","",""
+球体の中に、マンションの外観が映っている。","The glowing object is a transparent sphere that looks like a hard candy, with molten candy seemingly spinning and flowing out from the top and bottom. Inside the sphere, the exterior of the mansion is reflected.","","",""
+"球体に触れる","球体に触れる","Touch the sphere","","",""
+"頭の中に、何かのイメージが流れ込んできた。","頭の中に、何かのイメージが流れ込んできた。","An image of something rushed into my head.","","",""
+"球体から手を離す","球体から手を離す","Release your hand from the sphere","","",""
+"・・・・・・・・・・・。","・・・・・・・・・・・。","...........","","",""
 "病院のような場所で目が覚めた。
 財団職員が来て、状況の聞き取りが行われた。
 正確にはもっと前に意識は回復していたが、錯乱状態が続いていたらしい。","病院のような場所で目が覚めた。
 財団職員が来て、状況の聞き取りが行われた。
-正確にはもっと前に意識は回復していたが、錯乱状態が続いていたらしい。","","","",""
+正確にはもっと前に意識は回復していたが、錯乱状態が続いていたらしい。","I woke up in a place that looked like a hospital.
+A Foundation agent arrived and conducted an interview to assess the situation.
+To be precise, I had regained consciousness much earlier, but I had reportedly been in a continuous state of delirium.","","",""
 "自力で帰還した記憶は、どこを探しても見当たらない。あの場で意識を失ったのだ。
 聞けば、アライグマのフレンズが私を助け、エントランスまで引きずってきたという。
 ……疑問が消えない。彼女は、あの階層に踏み込んでも平気だったというのか？","自力で帰還した記憶は、どこを探しても見当たらない。あの場で意識を失ったのだ。
 聞けば、アライグマのフレンズが私を助け、エントランスまで引きずってきたという。
-……疑問が消えない。彼女は、あの階層に踏み込んでも平気だったというのか？","","","",""
+……疑問が消えない。彼女は、あの階層に踏み込んでも平気だったというのか？","No matter where I look, I can find no memory of returning on my own. I lost consciousness right then and there.
+I am told that a Raccoon Friend rescued me and dragged me all the way to the entrance.
+...Questions linger. Are you telling me she was perfectly fine stepping into that stratum?","","",""
 "そのまま、職員と研究者たちの聞き取りが続いた。
 あの場所で「光る玉」に指が触れてからの出来事は覚えている。だが、言葉で説明するのが難しい。
 ただ、脳裏にこびりついた断片的なイメージを、絞り出すようにして伝えた。","そのまま、職員と研究者たちの聞き取りが続いた。
 あの場所で「光る玉」に指が触れてからの出来事は覚えている。だが、言葉で説明するのが難しい。
-ただ、脳裏にこびりついた断片的なイメージを、絞り出すようにして伝えた。","","","",""
+ただ、脳裏にこびりついた断片的なイメージを、絞り出すようにして伝えた。","The interrogation by the staff and researchers continued just like that.
+I remember what happened after my finger touched the ""glowing orb"" in that place. But it's difficult to explain in words.
+I could only squeeze out the words to convey the fragmented images scorched into my mind.","","",""
 "話をする中で、段々自分自身整理ができてきた。
 詳細は今後の二次調査やレポートでうまくまとまるだろうが、
 とにかく言えるのは、あの階に誰も近づけないようにする事だ。
@@ -571,84 +743,103 @@ Image movement + fade in + bobbing"
 詳細は今後の二次調査やレポートでうまくまとまるだろうが、
 とにかく言えるのは、あの階に誰も近づけないようにする事だ。
 それがあんたたちのいう「収容」に一番近いものなのではないか、
-という事を伝えた。","","","",""
+という事を伝えた。","As we talked, things gradually became clearer in my own mind. 
+The details will likely come together in future secondary investigations and reports, but what I can say for sure right now is that we must keep everyone away from that floor. I told them that doing so would probably be the closest thing to what they call ""containment.""","","",""
 "聞き取りの終わり際、職員から
 「アライグマのフレンズから預かっているものがある」
 と布袋を渡された。
 中には、手紙と饅頭、サンドスターのかけらが入っていた。","聞き取りの終わり際、職員から
 「アライグマのフレンズから預かっているものがある」
 と布袋を渡された。
-中には、手紙と饅頭、サンドスターのかけらが入っていた。","","","",""
+中には、手紙と饅頭、サンドスターのかけらが入っていた。","Near the end of the interview, the staff member handed over a cloth bag, saying, ""I have something for you from a Raccoon Friend."" Inside were a letter, a manjū, and a piece of Sandstar.","","",""
 "本物のサンドスター・・がここにあるはずはないので、これはレプリカか。
 これのおかげであの階に入ってこれたのだろう。
 手紙を見る。","本物のサンドスター・・がここにあるはずはないので、これはレプリカか。
 これのおかげであの階に入ってこれたのだろう。
-手紙を見る。","","","",""
+手紙を見る。","The real Sandstar shouldn't be here, so is this a replica?
+This must be what allowed us to enter that floor.
+I look at the letter.","","",""
 "「ちゃんと食べないとだめなのだ。
 アライさんのお弁当をやるのだ。目が覚めたら食べるのだ」
 「サンドスターでお弁当はいつまでも大丈夫なはずなのだ」","「ちゃんと食べないとだめなのだ。
 アライさんのお弁当をやるのだ。目が覚めたら食べるのだ」
-「サンドスターでお弁当はいつまでも大丈夫なはずなのだ」","","","",""
+「サンドスターでお弁当はいつまでも大丈夫なはずなのだ」","""You have to eat properly nanoda.
+I’ll give you Arai-san's bento nanoda. Eat it when you wake up nanoda.""
+""Thanks to Sandstar, the bento should stay fresh forever nanoda!""","","",""
 "インタビューはその後数日続いた。
 その間に体調はすっかり回復した。
 光る玉の影響もあるが、サンドスターレプリカの影響下での活動は
 体に負担がかかるようだった。","インタビューはその後数日続いた。
 その間に体調はすっかり回復した。
 光る玉の影響もあるが、サンドスターレプリカの影響下での活動は
-体に負担がかかるようだった。","","","",""
+体に負担がかかるようだった。","The interview continued for the next few days.
+During that time, my physical condition fully recovered.
+While the glowing orb played a part, operating under the influence of the Sandstar Replica seemed to take a heavy toll on the body.","","",""
 "「さて、これで聞き取りは終わりだ。そして君には、恩赦が与えられる」
 「恩赦の際は記憶処理が行われ、新しい戸籍が与えられる。気の済むまでマンションの調査を続けることもできるが」","「さて、これで聞き取りは終わりだ。そして君には、恩赦が与えられる」
-「恩赦の際は記憶処理が行われ、新しい戸籍が与えられる。気の済むまでマンションの調査を続けることもできるが」","","","",""
-"そういえばそんな話だった。","そういえばそんな話だった。","","","",""
+「恩赦の際は記憶処理が行われ、新しい戸籍が与えられる。気の済むまでマンションの調査を続けることもできるが」","""Now, that concludes the hearing. And you shall be granted an amnesty.""
+""Upon your amnesty, a memory treatment will be performed, and you will be given a new family registry. Though you may also continue your investigation of the mansion until you are satisfied.""","","",""
+"そういえばそんな話だった。","そういえばそんな話だった。","Come to think of it, that's how the story went.","","",""
 "「すぐ恩赦するか決める前に、もう一度マンションに寄らせてくれないか」
 「構わないが。忘れ物か？」
 「アライさんにお礼を言っとこうかなと」","「すぐ恩赦するか決める前に、もう一度マンションに寄らせてくれないか」
 「構わないが。忘れ物か？」
-「アライさんにお礼を言っとこうかなと」","","","",""
+「アライさんにお礼を言っとこうかなと」","""Before deciding whether to grant an immediate amnesty, could you let me drop by the mansion one more time?""
+""I don't mind. Did you leave something behind?""
+""I thought I'd go say thank you to Arai-san.""","","",""
 "[color=green]●「調査者の記録と特別収容プロトコル最終決定稿」を入手しました。
 ●マンション調査は、収容プロトコル確立という大きな山を越えました。[/color]","[color=green]●「調査者の記録と特別収容プロトコル最終決定稿」を入手しました。
-●マンション調査は、収容プロトコル確立という大きな山を越えました。[/color]","","","",""
+●マンション調査は、収容プロトコル確立という大きな山を越えました。[/color]","[color=green]● Obtained ""Investigator's Records and Special Containment Procedures Final Draft"".
+● The mansion investigation has overcome a major hurdle: establishing the containment protocols.[/color]","","",""
 "[color=green]決め手となった当該職員に対し、
 当初の約束通り、人生をやりなおすか
 しばらく調査を続けるかを選択させます。
 ※前者を選んだとしても、新しい職員により調査は続きます。[/color]","[color=green]決め手となった当該職員に対し、
 当初の約束通り、人生をやりなおすか
 しばらく調査を続けるかを選択させます。
-※前者を選んだとしても、新しい職員により調査は続きます。[/color]","","","",""
-"記憶処理をして、人生をやりなおす","記憶処理をして、人生をやりなおす","","","",""
-"このまま、他の階の調査を続ける","このまま、他の階の調査を続ける","","","",""
+※前者を選んだとしても、新しい職員により調査は続きます。[/color]","[color=green]We will allow the member of staff who provided the decisive information to choose between restarting their life as originally promised, or continuing the investigation for a while longer.
+*Even if they choose the former, the investigation will still continue with a new member of staff.[/color]","","",""
+"記憶処理をして、人生をやりなおす","記憶処理をして、人生をやりなおす","Wipe my memories and start life over","","",""
+"このまま、他の階の調査を続ける","このまま、他の階の調査を続ける","Keep investigating the other floors as I am","","",""
 "逃げ込んだ先は、無情にも行き止まりだった。
 だが、天井が低く空間も狭いため、追いすがってくる海洋生物の触手は、ここまで届きそうにない。
 荒い呼吸を整え、隙を見て一気にエレベーターまで駆け戻れば、問題なく生還できそうだ。","逃げ込んだ先は、無情にも行き止まりだった。
 だが、天井が低く空間も狭いため、追いすがってくる海洋生物の触手は、ここまで届きそうにない。
-荒い呼吸を整え、隙を見て一気にエレベーターまで駆け戻れば、問題なく生還できそうだ。","","","",""
+荒い呼吸を整え、隙を見て一気にエレベーターまで駆け戻れば、問題なく生還できそうだ。","The place I fled into was, mercilessly, a dead end.
+However, because the ceiling is low and the space is narrow, the tentacles of the marine creatures pursuing me don't seem like they can reach this far.
+If I catch my breath and seize the right moment to dash back to the elevator all at once, it looks like I can make it back alive without a problem.","","",""
 "低い呻き声に導かれ視線を向けると、そこには瀕死のオオカワウソのフレンズが横たわっていた。
 海洋生物に気付くのが遅れ、襲われてから逃げ出したのだろう。","低い呻き声に導かれ視線を向けると、そこには瀕死のオオカワウソのフレンズが横たわっていた。
-海洋生物に気付くのが遅れ、襲われてから逃げ出したのだろう。","","","",""
+海洋生物に気付くのが遅れ、襲われてから逃げ出したのだろう。","Guided by a low groaning sound, you turn your gaze to find a dying Giant Otter Friends lying there. 
+She must have noticed the marine organism too late and fled only after being attacked.","","",""
 "「ハハハ...この地図を……私と同じ姿をした仲間に……私はここに置いていってくれていい……」
 震える手で差し出されたそれを受け取ると、彼女の瞳から光が失われ、二度と動かなくなった。","「ハハハ...この地図を……私と同じ姿をした仲間に……私はここに置いていってくれていい……」
-震える手で差し出されたそれを受け取ると、彼女の瞳から光が失われ、二度と動かなくなった。","","","",""
+震える手で差し出されたそれを受け取ると、彼女の瞳から光が失われ、二度と動かなくなった。","""Hahaha... Give this map to... to the friends who look just like me... You can leave me behind here...""
+As you take it from her trembling hand, the light fades from her eyes, and she moves no more.","","",""
 "[color=green]●行動「オオカワウソ・地図」が解禁されました。[/color]","[color=green]●行動「オオカワウソ・地図」が解禁されました。[/color]","","","",""
-"アライさんとフェネックのフレンズが住んでいる階だ。","アライさんとフェネックのフレンズが住んでいる階だ。","","","",""
-"訪問する","訪問する","","","",""
-"階段に行く","階段に行く","","","",""
-"なんか嫌な予感がする。階段を使うのはやめておこう。","なんか嫌な予感がする。階段を使うのはやめておこう。","","","",""
+"アライさんとフェネックのフレンズが住んでいる階だ。","アライさんとフェネックのフレンズが住んでいる階だ。","This is the floor where the Arai-san and Fennec Friends live.","","",""
+"訪問する","訪問する","Visit","","",""
+"階段に行く","階段に行く","Go to the stairs","","",""
+"なんか嫌な予感がする。階段を使うのはやめておこう。","なんか嫌な予感がする。階段を使うのはやめておこう。","I have a bad feeling about this. Let's avoid using the stairs.","","",""
 "上と下に階段が延びている。
 折り返しがなく、ただひたすらまっすぐに・・・。","上と下に階段が延びている。
-折り返しがなく、ただひたすらまっすぐに・・・。","","","",""
-"階段を上がる","階段を上がる","","","",""
-"階段を下る","階段を下る","","","",""
-"階段を1階分上がった。","階段を1階分上がった。","","","",""
-"階段を1階分下った。","階段を1階分下った。","","","",""
-"この階に進む扉がある。相変わらず階段は上下に続いている。","この階に進む扉がある。相変わらず階段は上下に続いている。","","","",""
-"この階に行く","この階に行く","","","",""
-"扉の先は、アライさん達の居住階と同じような、平穏そうな階だった。","扉の先は、アライさん達の居住階と同じような、平穏そうな階だった。","","","",""
+折り返しがなく、ただひたすらまっすぐに・・・。","Stairs extend both upward and downward.
+There are no landings, just continuing straight on and on...","","",""
+"階段を上がる","階段を上がる","Go up the stairs","","",""
+"階段を下る","階段を下る","Go down the stairs","","",""
+"階段を1階分上がった。","階段を1階分上がった。","Went up one floor via the stairs.","","",""
+"階段を1階分下った。","階段を1階分下った。","Went down one floor via the stairs.","","",""
+"この階に進む扉がある。相変わらず階段は上下に続いている。","この階に進む扉がある。相変わらず階段は上下に続いている。","There is a door leading to this floor. As always, the stairs continue both up and down.","","",""
+"この階に行く","この階に行く","Go to this floor","","",""
+"扉の先は、アライさん達の居住階と同じような、平穏そうな階だった。","扉の先は、アライさん達の居住階と同じような、平穏そうな階だった。","Beyond the doors was a peaceful-looking floor, much like the one where the Arai-sans lived.","","",""
 "扉を開けた瞬間、視界が赤く染まり、意識が遠のいていった。
 [color=green]●「転送耐性」スキル発動しました。転送酔いを防止しました。[/color]","扉を開けた瞬間、視界が赤く染まり、意識が遠のいていった。
-[color=green]●「転送耐性」スキル発動しました。転送酔いを防止しました。[/color]","","","",""
+[color=green]●「転送耐性」スキル発動しました。転送酔いを防止しました。[/color]","The moment the doors opened, my vision stained red, and my consciousness began to fade.
+[color=green]● ""Warp Proof"" skill activated. Prevents teleportation sickness.[/color]","","",""
 "扉を開けた瞬間、視界が赤く染まり、意識が遠のいていった。
 [color=green]●激しい転送酔いを起こしました。[/color]","扉を開けた瞬間、視界が赤く染まり、意識が遠のいていった。
-[color=green]●激しい転送酔いを起こしました。[/color]","","","",""
+[color=green]●激しい転送酔いを起こしました。[/color]","The moment the doors opened, my vision stained red, and my consciousness began to fade.
+[color=green]●Suffered from severe teleportation sickness.[/color]","","",""
 "この階にはもう何もない。","この階にはもう何もない。","","","",""
 "エレベーターの扉が開くと、待ち構えていたかのように床にアタッシュケースが置かれていた。
 アルミ製の、ホームセンターで買えるようなごくありふれたものだ。
