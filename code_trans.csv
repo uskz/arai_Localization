@@ -776,8 +776,8 @@ DOCUMENT_0650,「エレベータ内の日本語のメモ書きの階に行って
 DOCUMENT_0651,「NOT SAFEの階に閉じ込められて、2週間後くらいに助けられたヤツがいる。\nあれは精神的にタフになっていたのか、それとも壊れたのか・・・」,,,,
 DOCUMENT_0652,「以前話した行方不明の友人なんだが、腕はいいが口下手なやつだった。交渉が下手なせいで苦労していたな。\nもしかしたら、行方不明になったことと何か関係があるのかもな。」,,,,
 DOCUMENT_0653,「お前以外の日本人の探索者と行動を共にしたことがある。「ほおずき」のいる階ではぐれてしまったがな。\n　「ほおずき」の注意を逸らせる方法があれば、あの階をまともに探索できるかもしれない。」,,,,
-報告書作成基本方針,報告書作成基本方針,Basic Principles for Report Creation,报告书编写基本方针,보고서 작성 기본 방침,Основные принципы составления отчетов
-探索マニュアル,探索マニュアル,Exploration Manual,探索手册,탐색 매뉴얼,Руководство по исследованию
+報告書作成基本方針,報告書作成基本方針,Report Policy,报告基本方针,보고서 기본방침,Правила отчётов
+探索マニュアル,探索マニュアル,Exploration Manual,探索手册,탐색 매뉴얼,Гайд
 EVENTPROC_0658,"●サーバル似のフレンズがエントランスに降り立ちました。
 ●消息を絶った探索者がネットワーク上に知識を展開していたため、とれる行動は引き継いでいますが、
 　スキル・資産・食料は引き継がれません。",,,,
@@ -1994,7 +1994,20 @@ VIEWER_2113,"
 
 　　　　　　　　　　　　　「アライさんはよく迷子になっていろんな階に行くけど、ここは見たことないのだ。
 　　　　　　　　　　　　　四角い紙みたいなものを持ってるけど、これはいったい何なのだー！？」
-",,,,
+","
+
+
+
+
+　　　　　　　　　　　　　I was curious, so I jotted down what Arai-san was saying.
+
+
+　　　　　　　　　　　　　""Whoa, look at all these photos! Are these from inside the mansion?
+　　　　　　　　　　　　　 This one is the hallway on the floor where Arai-san and the others live! And this one is the floor where Doc and Gen-chan are!
+ 　　　　　　　　　　　　　Huh? What on earth is this floor...?""
+
+　　　　　　　　　　　　　""Arai-san gets lost all the time and wanders onto all sorts of floors, but I've never seen this place before.
+                         You're holding a bunch of square pieces of paper, but what in the world are they nanoda!?""",,,
 デッキを空にする,デッキを空にする,Clear Deck,重置卡组,덱 초기화,Очистить колоду
 ランダムに配置,ランダムに配置,Random Deck,随机放入牌组,무작위 덱 배치,Случайная колода
 デッキ編集を確定,デッキ編集を確定,Confirm Deck,确认修改卡组,덱 편집 확정,Подтвердить колоду
