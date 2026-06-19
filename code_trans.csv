@@ -1,4 +1,5 @@
 keys,ja,en,zh,ko,ru
+floor,階「{floor_name}」,"F ""{floor_name}""",楼「{floor_name}」,"층 ""{floor_name}""",этаж «{floor_name}»
 B_ACT_0001,"【{card_name}】
 概要：
 {expr}
