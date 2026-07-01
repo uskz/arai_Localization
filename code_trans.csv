@@ -2734,3 +2734,13 @@ VIEWER_2113,"
 お気に入り保存,お気に入り保存,Save Favo,储存收藏,儲存收藏,즐겨찾기 저장,В избр.
 お気に入り呼出,お気に入り呼出,Load Favo,读取收藏,讀取收藏,즐겨찾기 불러오기,Из избр.
 偽エレベーターガールを呼ぶ(ランダム階へ移動),偽エレベーターガールを呼ぶ(ランダム階へ移動),Call Fake Elevator Girl,呼叫伪电梯小姐,呼叫偽電梯小姐,가짜 엘리베이터 걸 부르기(무작위 층으로 이동),Вызвать Фальшивая лифтёрша
+AI接続テスト,AI接続テスト,AI Connection Test,AI连接测试,AI連接測試,AI 연결 테스트,Тест подключения ИИ
+AI_TEST_NOFILE,use_ai.txtが未設定,use_ai.txt is missing,use_ai.txt is missing,use_ai.txt is missing,use_ai.txt is missing,use_ai.txt is missing
+AI_TEST_200,正常に接続されました,Connection successful,Connection successful,Connection successful,Connection successful,Connection successful
+AI_TEST_401,認証エラー（APIキーが無効または不足）,Authentication error (Invalid or missing API key),Authentication error (Invalid or missing API key),Authentication error (Invalid or missing API key),Authentication error (Invalid or missing API key),Authentication error (Invalid or missing API key)
+AI_TEST_403,アクセス拒否（権限不足またはキー制限）,Access denied (Insufficient permissions or key restrictions),Access denied (Insufficient permissions or key restrictions),Access denied (Insufficient permissions or key restrictions),Access denied (Insufficient permissions or key restrictions),Access denied (Insufficient permissions or key restrictions)
+AI_TEST_404,エンドポイントが存在しません（URL誤り）,Endpoint not found (Invalid URL),Endpoint not found (Invalid URL),Endpoint not found (Invalid URL),Endpoint not found (Invalid URL),Endpoint not found (Invalid URL)
+AI_TEST_429,レート制限（短時間に大量のリクエスト）,Rate limit exceeded (Too many requests),Rate limit exceeded (Too many requests),Rate limit exceeded (Too many requests),Rate limit exceeded (Too many requests),Rate limit exceeded (Too many requests)
+AI_TEST_503,サーバー側の問題,Server-side error,Server-side error,Server-side error,Server-side error,Server-side error
+AI_TEST_5xx,サーバー側の障害,Server failure,Server failure,Server failure,Server failure,Server failure
+AI_TEST_xxx,"不明なエラー（APIキーがおかしい""かも""）",Unknown error (Invalid API key?),Unknown error (Invalid API key?),Unknown error (Invalid API key?),Unknown error (Invalid API key?),Unknown error (Invalid API key?)
