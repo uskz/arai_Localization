@@ -583,7 +583,7 @@ COMMON_0432,●新しい探索者のスキル：,●New Investigator Skills:,●
 海底,海底,Bottom of Sea,海底,海底,해저,Морское дно
 深淵,深淵,Abyss,深渊,深淵,심연,Бездна
 あなたの最高の友達,あなたの最高の友達,Your Best Friend,你最好的朋友,你最好的朋友,너의 최고의 친구,Твой лучший друг
-COMMON_0573,かいじ,HP{hp},体力{hp},體力{hp},체력{hp},Здоровье{hp}
+COMMON_0573,体力{hp},HP{hp},体力{hp},體力{hp},체력{hp},Здоровье{hp}
 COMMON_0576,精神{sp},SP{sp},精神{sp},精神{sp},정신{sp},Психика{sp}
 COMMON_0578,所持金{pm}{money},Money{pm}{money},持有金{pm}{money},持有金{pm}{money},소지금{pm}{money},Деньги{pm}{money}
 COMMON_0579,食料{pm}{food},Food{pm}{food},食物{pm}{food},食物{pm}{food},식량{pm}{food},Еда{pm}{food}
